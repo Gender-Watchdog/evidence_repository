@@ -1,0 +1,97 @@
+================================================================================
+EMAIL HEADERS
+================================================================================
+From: "Gender Watchdog" <advocate@genderwatchdog.org>
+To: "anita.anand@parl.gc.ca" <anita.anand@parl.gc.ca>,
+ "MinisterDND@forces.gc.ca" <MinisterDND@forces.gc.ca>,
+ "david.mcguinty@parl.gc.ca" <david.mcguinty@parl.gc.ca>,
+ "gord.johns@parl.gc.ca" <gord.johns@parl.gc.ca>, "lori.idlout@parl.gc.ca"
+ <lori.idlout@parl.gc.ca>, "heather.mcpherson@parl.gc.ca"
+ <heather.mcpherson@parl.gc.ca>, "james.bezan@parl.gc.ca"
+ <james.bezan@parl.gc.ca>, "christine.normandin@parl.gc.ca"
+ <christine.normandin@parl.gc.ca>, "alexis.brunelle-duceppe@parl.gc.ca"
+ <alexis.brunelle-duceppe@parl.gc.ca>
+Cc: "joel.lightbound@parl.gc.ca" <joel.lightbound@parl.gc.ca>,
+ "maninder.sidhu@parl.gc.ca" <maninder.sidhu@parl.gc.ca>,
+ "stephen.fuhr@parl.gc.ca" <stephen.fuhr@parl.gc.ca>, "pm@pm.gc.ca"
+ <pm@pm.gc.ca>, "Taleeb.Noormohamed@parl.gc.ca"
+ <Taleeb.Noormohamed@parl.gc.ca>, "Sunita.Dhir.MLA@leg.bc.ca"
+ <Sunita.Dhir.MLA@leg.bc.ca>, "Jean-Yves.Duclos@parl.gc.ca"
+ <Jean-Yves.Duclos@parl.gc.ca>, "francois-philippe.champagne@parl.gc.ca"
+ <francois-philippe.champagne@parl.gc.ca>, "michael.chong@parl.gc.ca"
+ <michael.chong@parl.gc.ca>, "Pierre.Paul-Hus@parl.gc.ca"
+ <Pierre.Paul-Hus@parl.gc.ca>, "Bill.Blair@parl.gc.ca"
+ <Bill.Blair@parl.gc.ca>, "Melanie.Joly@parl.gc.ca"
+ <Melanie.Joly@parl.gc.ca>, "NDDN@parl.gc.ca" <NDDN@parl.gc.ca>,
+ "seoul@international.gc.ca" <seoul@international.gc.ca>,
+ [REDACTED]
+Bcc: [REDACTED]
+Subject: =?utf-8?q?Update:_EU_Delegation_Seoul_Initiates_GEP_Compliance_Verificati?= =?utf-8?q?on_of_Korean_Horizon_Europe_Institutions_=E2=80=94_Direct_Relev?= =?utf-8?q?ance_to_Hanwha_Procurement_/_Mise_=C3=A0_jour_:_La_d=C3=A9l?= =?utf-8?q?=C3=A9gation_de_l'UE_=C3=A0_S=C3=A9oul_lance_une_v=C3=A9rificat?= =?utf-8?q?ion_GEP_des_institutions_cor=C3=A9ennes_actives_dans_Horizon_Eu?= =?utf-8?q?rope_=E2=80=94_pertinence_directe_pour_l'approvisionnement_Hanw?= =?utf-8?q?ha?=
+Date: Mon, 23 Mar 2026 13:00:01 +0000
+Message-ID: <-7HgrKD54EXbgK9cQFnTOanFg2kIeVRIBKS_QMh_UxoHR429l2M-aMzlmVP17l51WGOSrl_P8bJXcVTemSpTNN5QvreybCBjX6p7sW6gCLg=@genderwatchdog.org>
+References: <-dzIqkhUZ0hBA3i54Lu7S-m7jAL_l2U_YF9qlkFWDFjIRlm97sy0xhpjPE0W6I7NcXDxIMu0oeKzOfAGTanYBw==@protonmail.internalid>
+
+================================================================================
+EMAIL CONTENT
+================================================================================
+
+--- HTML CONTENT (converted to text) ---
+(Le français suit l'anglais)
+
+Dear Ministers Anand and McGuinty, Parliamentary Critics, Members of Parliament, and Embassy of Canada Seoul,
+
+This is a brief update to our March 12, 2026 submission. A development since that correspondence adds independent institutional weight to the procurement risk case we have been building.EU Delegation Seoul Opens GEP Compliance Verification: March 19, 2026
+
+On March 19, 2026, Gender Watchdog received formal written acknowledgment from Rainer Wessely, Counsellor for Digital and Research at the EU Delegation to the Republic of Korea, confirming that our briefing on Gender Equality Plan compliance failures at Korean Horizon Europe-active institutions had been forwarded to EC DG Research & Innovation (RTD) units for active verification. Mr. Wessely confirmed the RTD units would verify whether Korean Horizon Europe proposals are "in conformity with the GEP requirements."
+
+This is not Gender Watchdog's assessment. A senior EU diplomat on official EEAS letterhead has opened a compliance file on the same Korean university ecosystem whose partnership fraud we have been documenting for your offices since January 2026.Why This Matters for the Submarine Procurement
+
+Every submission we have sent your offices has argued that Hanwha Ocean's technology transfer commitments to Canada — the training pipelines, the maintenance workforce, the 20-30 year sustainment cycle — depend on the credibility of Korean university engineering programs to produce and attract the necessary talent. Our documentation has been based on forensic audits of Korean university partnership data.
+
+The EU Delegation response adds an independent institutional data point from a different jurisdiction entirely.
+
+Korea's association with Horizon Europe — the EU's €95.5 billion research funding program — requires all Korean higher education institutions applying for funding to hold a published Gender Equality Plan. This is a mandatory eligibility requirement, not a recommendation. Of twelve Korean institutions whose researchers are currently active in Horizon Europe consortia, eleven have no published GEP as of March 2026. The one institution that published a GEP — Dongguk University — did so in December 2025 under documented advocacy pressure, and the document fails substantive EU compliance standards on four grounds.
+
+The full analysis of those four failures is published at:
+
+GEP Theatre and the Unguarded Gate (Gender Watchdog, March 2026): https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/
+
+One finding is particularly relevant to Canada's procurement evaluation. Chung-Ang University — whose 27% partnership reciprocity rate we documented in our March 12 submission — holds Korea's official National Contact Point role for Horizon Europe Clusters 1 and 6 (Health and Bioeconomy). Prof. Kisung Ko of Chung-Ang is the government-appointed advisor guiding Korean researchers through EU eligibility and compliance requirements. His home institution has no published GEP and a confirmed 27% reciprocity rate against its own claimed global partner list.
+
+The CAU reciprocity audit is available in machine-readable form at:
+
+CAU Audit CSV (March 8, 2026, 28 manual corrections applied): https://github.com/Gender-Watchdog/cau-timeline-website/blob/main/evidence/20260309-cau-reciprocity-audit/audit_results.csv
+
+The pattern is consistent across both the partnership fraud and GEP compliance failures: Korean institutional self-reporting on international standards does not withstand independent verification. That finding now comes not only from our forensic audits, but from the EU's own compliance process. A country whose universities cannot meet mandatory EU research governance standards is not positioned to deliver the credible, sustained technology transfer pipeline that a $60 billion CAD submarine contract requires.Send Order Note
+
+This update follows our March 20 reply to the EU Delegation. The EU Delegation's written response is now on record before this communication reaches you.
+
+Gender Watchdog advocate@genderwatchdog.org https://genderwatchdog.org Supported by EROC (End Rape On Campus)Mise à jour : La délégation de l'UE à Séoul lance une vérification GEP des institutions coréennes actives dans Horizon Europe
+
+(This is a summary translation of the above for francophone recipients.)
+
+Chers ministres, critiques parlementaires, membres du Parlement et ambassade du Canada à Séoul,
+
+Il s'agit d'une brève mise à jour faisant suite à notre soumission du 12 mars 2026.
+
+Le 19 mars 2026, Gender Watchdog a reçu un accusé de réception officiel de Rainer Wessely, conseiller pour le numérique et la recherche à la délégation de l'UE en République de Corée. M. Wessely a confirmé que notre dossier sur les manquements aux exigences de Plan pour l'égalité des genres (GEP) des institutions coréennes actives dans Horizon Europe avait été transmis aux unités de la DG RTD de la Commission européenne pour vérification active. M. Wessely a confirmé que les unités RTD vérifieraient si les propositions coréennes soumises à Horizon Europe sont « conformes aux exigences GEP ».
+
+Ce n'est plus uniquement l'évaluation de Gender Watchdog. Un diplomate de l'UE a ouvert un dossier de conformité portant sur le même écosystème universitaire coréen dont nous documentons la fraude aux partenariats depuis janvier 2026.
+
+Pertinence pour l'approvisionnement en sous-marins : Sur douze institutions coréennes dont les chercheurs participent activement aux consortiums Horizon Europe, onze n'avaient aucun GEP publié en mars 2026. La seule institution à avoir publié un GEP — l'Université Dongguk — l'a fait en décembre 2025 sous pression documentée, et ce document échoue aux critères substantiels de conformité de l'UE sur quatre points.
+
+L'Université Chung-Ang — dont le taux de réciprocité des partenariats de 27 % a été documenté dans notre soumission du 12 mars — occupe le rôle officiel de Point de contact national de la Corée pour les Clusters 1 et 6 d'Horizon Europe. L'institution dont le professeur est conseiller gouvernemental en matière de conformité GEP pour les chercheurs coréens n'a elle-même publié aucun GEP.
+
+Le schéma est cohérent : les auto-déclarations institutionnelles coréennes sur les normes internationales ne résistent pas à une vérification indépendante. Ce constat émane désormais non seulement de nos audits forensiques, mais du propre processus de conformité de l'UE.
+
+Analyse complète : https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/
+
+Gender Watchdog 
+
+advocate@genderwatchdog.org 
+
+https://genderwatchdog.org 
+
+Soutenu par EROC (End Rape On Campus)
+
+        Sent with Proton Mail secure email.

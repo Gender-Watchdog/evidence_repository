@@ -1,0 +1,74 @@
+================================================================================
+EMAIL HEADERS
+================================================================================
+From: "Gender Watchdog" <advocate@genderwatchdog.org>
+To: "president@mohawkcollege.ca" <president@mohawkcollege.ca>,
+ "thea.laidman@mohawkcollege.ca" <thea.laidman@mohawkcollege.ca>,
+ "amanda.white5@mohawkcollege.ca" <amanda.white5@mohawkcollege.ca>,
+ "trish.loomis@mohawkcollege.ca" <trish.loomis@mohawkcollege.ca>,
+ "info@onshipyards.com" <info@onshipyards.com>
+Cc: "julia.sippel@mohawkcollege.ca" <julia.sippel@mohawkcollege.ca>,
+ "sean.coffey@mohawkcollege.ca" <sean.coffey@mohawkcollege.ca>,
+ "cebert.adamson@mohawkcollege.ca" <cebert.adamson@mohawkcollege.ca>,
+ "katie.burrows@mohawkcollege.ca" <katie.burrows@mohawkcollege.ca>,
+ "stephen.fuhr@parl.gc.ca" <stephen.fuhr@parl.gc.ca>,
+ "information@forces.gc.ca" <information@forces.gc.ca>, "pm@pm.gc.ca"
+ <pm@pm.gc.ca>, "james.bezan@parl.gc.ca" <james.bezan@parl.gc.ca>,
+ "gord.johns@parl.gc.ca" <gord.johns@parl.gc.ca>, "NDDN@parl.gc.ca"
+ <NDDN@parl.gc.ca>, [REDACTED]
+Bcc: [REDACTED]
+Subject: =?utf-8?q?Update:_EU_Delegation_Seoul_Initiates_GEP_Compliance_Review_of_?= =?utf-8?q?Korean_Horizon_Europe_Institutions_=E2=80=94_Relevance_to_Hanwh?= =?utf-8?q?a_Technology_Transfer_Claims?=
+Date: Mon, 23 Mar 2026 13:15:01 +0000
+Message-ID: <YDan7qw8GE-R_Sa1rSj1I7rd9UcfnZPfdmggj8tRBLdOuGUzOVW80H_rtPnwXHZxVDge8YS2PoVcG27Uwjr-bNOuv6_SnTXt9zIB-KalU3o=@genderwatchdog.org>
+References: <vuTqPtLexphYame76H65-5B89-RwWgdt2-SRPQew1lRonC7qvsyUdZafkwUwQ_9UEyp0oS01hB0OPLHoUa461g==@protonmail.internalid>
+
+================================================================================
+EMAIL CONTENT
+================================================================================
+
+--- HTML CONTENT (converted to text) ---
+Dear President Armstrong, Ms. Laidman, Ms. White, Ms. Loomis, and the team at Ontario Shipyards,
+
+This is a brief update to our February 24, 2026 correspondence regarding Hanwha Ocean's Letters of Intent with your institutions.EU Delegation Seoul Has Opened a Compliance File on Korean Horizon Europe Institutions
+
+On March 19, 2026, Gender Watchdog received formal written acknowledgment from Rainer Wessely, Counsellor for Digital and Research at the EU Delegation to the Republic of Korea, confirming that our briefing on Gender Equality Plan compliance failures at Korean Horizon Europe-active institutions had been forwarded to EC DG Research & Innovation (RTD) for active verification. Mr. Wessely confirmed the RTD units would verify whether Korean Horizon Europe proposals are "in conformity with GEP requirements."
+
+We raise this for your institutions specifically because the EU development bears directly on the due diligence questions we put to you in February.What This Means for Technology Transfer Credibility
+
+Hanwha Ocean's training and technology transfer commitments to Mohawk College and Ontario Shipyards rest on the assumption that Korean university engineering programs can supply credible, internationally competitive expertise to underpin those commitments.
+
+Korea's association with Horizon Europe — the EU's €95.5 billion research funding program — requires all Korean higher education institutions seeking EU research funding to hold a published Gender Equality Plan. This is a mandatory eligibility condition, not a recommendation. Of twelve Korean institutions whose researchers are currently active in Horizon Europe consortia, eleven have no published GEP as of this date. The one institution that published a GEP — Dongguk University — did so in December 2025 under documented advocacy pressure. That document fails EU substantive compliance standards on four grounds.
+
+The full compliance analysis is published at:
+
+GEP Theatre and the Unguarded Gate (Gender Watchdog, March 2026): https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/
+
+Korean institutional self-reporting on international governance standards does not withstand independent verification by external bodies with enforcement authority. This finding now comes from the EU's own compliance process, not only from Gender Watchdog's forensic audits.Specific Note for Mohawk's International Partnerships Office
+
+Ms. Laidman, this section is addressed to you directly given your portfolio.
+
+The institution Gender Watchdog identified as holding Korea's official Horizon Europe National Contact Point role — the government-appointed advisor guiding Korean researchers through EU compliance and eligibility requirements — is Chung-Ang University. Prof. Kisung Ko of Chung-Ang is listed as Korea's NCP for Clusters 1 and 6 (Health and Bioeconomy) in the K-ERC June 2025 Horizon Europe Biotechnology Forum participant document.
+
+Chung-Ang University has no published Gender Equality Plan. It also has a 27% confirmed reciprocity rate against its own publicly claimed global partner list — meaning 73% of the universities it claims as institutional partners do not list Chung-Ang in their own public records.
+
+The audit data is available in machine-readable form at:
+
+CAU Audit CSV (March 8, 2026): https://github.com/Gender-Watchdog/cau-timeline-website/blob/main/evidence/20260309-cau-reciprocity-audit/audit_results.csv
+
+The documentation of the broader pattern — nine Korean universities that have removed or temporarily blanked their partnership pages since January 2026 rather than dispute the audit methodology — is published at:
+
+Nine Korean Universities, Zero Rebuttals (Gender Watchdog, March 2026): https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/
+
+For any international partnerships office conducting due diligence on Korean academic credentials in connection with the Hanwha Letters of Intent: the EU Delegation has now independently initiated a verification process that confirms the compliance gap is real and is being treated as an active institutional matter by the EU. The EU did not take our documentation on faith — they undertook their own verification. That process is now open.
+
+We are available to provide additional documentation on request.
+
+Gender Watchdog 
+
+advocate@genderwatchdog.org 
+
+https://genderwatchdog.org 
+
+Supported by EROC (End Rape On Campus)
+
+        Sent with Proton Mail secure email.

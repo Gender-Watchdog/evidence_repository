@@ -1,0 +1,179 @@
+================================================================================
+EMAIL HEADERS
+================================================================================
+From: "Gender Watchdog" <advocate@genderwatchdog.org>
+To: "anita.anand@parl.gc.ca" <anita.anand@parl.gc.ca>,
+ "MinisterDND@forces.gc.ca" <MinisterDND@forces.gc.ca>,
+ "david.mcguinty@parl.gc.ca" <david.mcguinty@parl.gc.ca>,
+ "gord.johns@parl.gc.ca" <gord.johns@parl.gc.ca>, "lori.idlout@parl.gc.ca"
+ <lori.idlout@parl.gc.ca>, "heather.mcpherson@parl.gc.ca"
+ <heather.mcpherson@parl.gc.ca>, "james.bezan@parl.gc.ca"
+ <james.bezan@parl.gc.ca>, "christine.normandin@parl.gc.ca"
+ <christine.normandin@parl.gc.ca>, "alexis.brunelle-duceppe@parl.gc.ca"
+ <alexis.brunelle-duceppe@parl.gc.ca>
+Cc: "joel.lightbound@parl.gc.ca" <joel.lightbound@parl.gc.ca>,
+ "maninder.sidhu@parl.gc.ca" <maninder.sidhu@parl.gc.ca>,
+ "stephen.fuhr@parl.gc.ca" <stephen.fuhr@parl.gc.ca>, "pm@pm.gc.ca"
+ <pm@pm.gc.ca>, "Taleeb.Noormohamed@parl.gc.ca"
+ <Taleeb.Noormohamed@parl.gc.ca>, "Sunita.Dhir.MLA@leg.bc.ca"
+ <Sunita.Dhir.MLA@leg.bc.ca>, "Jean-Yves.Duclos@parl.gc.ca"
+ <Jean-Yves.Duclos@parl.gc.ca>, "francois-philippe.champagne@parl.gc.ca"
+ <francois-philippe.champagne@parl.gc.ca>, "michael.chong@parl.gc.ca"
+ <michael.chong@parl.gc.ca>, "Pierre.Paul-Hus@parl.gc.ca"
+ <Pierre.Paul-Hus@parl.gc.ca>, "Bill.Blair@parl.gc.ca"
+ <Bill.Blair@parl.gc.ca>, "Melanie.Joly@parl.gc.ca"
+ <Melanie.Joly@parl.gc.ca>, "NDDN@parl.gc.ca" <NDDN@parl.gc.ca>,
+ "seoul@international.gc.ca" <seoul@international.gc.ca>,
+ "seoul-cs@international.gc.ca" <seoul-cs@international.gc.ca>,
+ "seoul-gr@international.gc.ca" <seoul-gr@international.gc.ca>,
+ [REDACTED]
+Bcc: [REDACTED]
+Subject: =?utf-8?q?March_12,_2026_Update:_Korea's_Investment_Ultimatum,_Hanwha's_W?= =?utf-8?q?orkforce_Crisis,_and_10_Universities_Without_Verified_Partners_?= =?utf-8?q?/_Mise_=C3=A0_jour_12_mars_2026_:_l'ultimatum_d'investissement_?= =?utf-8?q?cor=C3=A9en,_la_crise_de_la_main-d'=C5=93uvre_chez_Hanwha,_et_1?= =?utf-8?q?0_universit=C3=A9s_sans_partenaires_v=C3=A9rifi=C3=A9s?=
+Date: Fri, 13 Mar 2026 13:00:01 +0000
+Message-ID: <5TM_e181okTDAlkaU0sBWrSwsCfP1PK2DZ_kNqnthmMfqbSjpCqHG0bMUje_8By4b-GFBMN4SpSGT2KXagHT19cyOR1JTDG45ys6a9Zh6O4=@genderwatchdog.org>
+References: <zMDwRgtuyOGS2RiWLihSPkMrXFPDODuM1vwYY8-rE-mS0k9YUsAzl6ZU1Ipxj5wZxbxopWbZrOh7mewnbPrQYw==@protonmail.internalid>
+
+================================================================================
+EMAIL CONTENT
+================================================================================
+
+--- HTML CONTENT (converted to text) ---
+(Le français suit l'anglais)
+
+Dear Ministers Anand and McGuinty, Parliamentary Critics, Members of Parliament, and Embassy of Canada Seoul,
+
+This is a brief update to our previous submissions of February 27, 2026 and March 3, 2026.[^11] Three developments since our last correspondence materially change the risk profile of the Hanwha Ocean submarine procurement. Each is documented by primary sources below.Update 1: Korea's Investment Ultimatum (March 5, 2026)
+
+On March 5, 2026, the same Korea Times article that documented Korea's investment posture quoted two key voices. Korea's Industry Minister Kim Jung-kwan stated that "the level of industrial cooperation with [Canada] would not remain the same" if Ottawa ordered only six submarines from Hanwha rather than all twelve.[^1] In the same piece, former ROK Navy submarine commander and Hanyang University professor Moon Keun-sik warned directly: "Korea should reconsider its investment plan from scratch if Canada splits the contract."[^1]
+
+Taken together, these are not a partnership offer. They are coordinated leverage.
+
+The March 5 statements must be read against what Korea's Foreign Minister said in Ottawa on February 25, 2026: that the Hanwha submarine contract would generate 200,000 jobs over 15 years for Canada. That figure originated from a KPMG study commissioned by Hanwha and published as sponsored content in The Hill Times, based on "preliminary information provided by Hanwha" and explicitly qualified by its own authors as subject to revision.[^2] It refers to "job-years" — approximately 15,000 annual positions, not 200,000 permanent jobs — and has not been independently audited by any Canadian institution.
+
+Minister Kim's March 5 statement now confirms that every investment and employment projection Hanwha has presented to Canadian officials is explicitly conditional on Canada purchasing all 12 submarines. Whatever figure appears in bid documents under the 15% "economic benefits" evaluation category and the 50% "sustainment" category must be understood as contingent on a specific procurement outcome — not as a stable, arms-length projection.[^3]
+
+A supplier whose government publicly recalibrates investment commitments in response to procurement decisions is not a credible counterparty for a 9-year, $60 billion contract. Moon Keun-sik had made precisely this structural point two weeks earlier: this procurement has devolved into a "state-to-state industrial contest" in which technical performance — the only thing that keeps submariners alive — has been reduced to just 20% of the evaluation score.[^4]Update 2: Hanwha's Workforce Is Now in Active Legal Dispute (March 10–11, 2026)
+
+On March 10, 2026, Korea's revised Trade Union Act — popularly known as the "yellow envelope law" — took effect. Within 24 hours, more than 80,000 subcontracted workers at 221 companies and public institutions filed collective bargaining demands with their principal employers. Hanwha Ocean was named explicitly among the major corporations facing new union demands.[^5]
+
+Hanwha Ocean was one of only five companies nationwide to post a formal acknowledgment notice — the first procedural step under the new law. That acknowledgment does not resolve wages, conditions, or workforce structures. Disputes over employer status, bargaining scope, and union composition will proceed through the National Labor Relations Commission and the courts over the coming months and years.[^5]
+
+This is the second documented labor crisis at Hanwha's facilities in six weeks. In our February 27 submission, we documented that 4,000 migrant subcontracted workers at Hanwha Ocean's Geoje shipyard received year-end bonuses equal to 46.8% of what Korean subcontracted workers with the same tenure received — a two-tier discrimination formally denounced by the union after President Lee Jae-myung had publicly praised Hanwha for "ending discrimination."[^6] Hanwha's own press statement acknowledged that even its direct non-Korean employees receive smaller performance bonuses than Korean employees with equivalent years of service — meaning the discriminatory structure extends through the entire non-Korean workforce, not only the subcontracted layer.[^6]
+
+A precise breakdown of migrant versus Korean workers in Hanwha's total shipyard workforce has not been published by Hanwha or the Korean Ministry of Employment and Labor. This is precisely the disclosure that a mandatory audit under Canada's Fighting Against Forced Labour and Child Labour in Supply Chains Act would require Hanwha to produce. Despite evidence being in Global Affairs Canada's hands since April 2025 (ATIP ATIP-[REDACTED]), no such audit has been triggered.
+
+The Korean Confederation of Trade Unions put the stakes plainly: "The era in which principal employers could dictate subcontracted workers' conditions while dodging responsibility at the bargaining table is over."[^5]
+
+The workforce that would execute Canada's 9-year, $60 billion build program is now in active legal and industrial transition. A procurement body evaluating sustainment at 50% of the total bid score should be weighing this directly.Update 3: The Phantom Partnership Map Now Covers 10 Korean Universities (March 2026)
+
+In our February 27 submission, we documented falsified international university partnerships at Dongguk University (UBC scrubbed; Toronto Metropolitan University referenced under its 2021 dead name "Ryerson"), Seoul National University (partner database taken offline during the Canadian delegation's visit), and Chung-Ang University (database taken offline for 65 hours in February).
+
+We now have a completed independent audit of Chung-Ang University's full claims, and the findings are categorical.
+
+Chung-Ang University: 27% reciprocity rate.
+
+Of 63 claimed partner universities audited, we identified 49 institutions maintaining publicly accessible partner directories. Of those 49, only 13 confirmed a partnership with CAU. 36 did not list CAU at all.[^7]
+
+Among the 36 absent institutions:Nanyang Technological University, Singapore (QS #12) — Korea partner list publicly accessible; CAU absentUC Berkeley (QS #17) — lists KAIST, Korea University, SNU, and Yonsei for Korea; CAU absentUniversity of Manchester (QS #35) — lists Ewha, Korea University, SNU, and Yonsei; CAU absentDuke University (QS #62) — South Korea country page entirely blank since at least 2020; all new bilateral exchanges frozen globally; CAU claimed this partnership in 2025–2026 marketing materials
+
+Full interactive timeline and methodology: https://chungang.genderwatchdog.org/[^7]
+
+Full blog documentation: https://blog.genderwatchdog.org/chung-ang-university-partnership-fraud-sexual-violence-doosan/[^8]
+
+Beyond CAU, the documented scrubbing pattern has now spread to at least six institutions. Before March 9, 2026, Hongik University's international partner page went blank — captured by the Wayback Machine and by Gender Watchdog before restoration. Before March 10, Ajou University's partnerships directory went blank — also captured independently. Sogang University's partner database, taken offline in mid-February, has not been restored.[^9]
+
+The total count of Korean universities with documented falsified, scrubbed, or unverifiable partnership claims now stands at a minimum of nine to ten institutions, across institutions spanning QS rankings from top-40 (SNU) to mid-range national arts universities.
+
+This matters directly for the submarine contract because Hanwha has committed to technology transfer and talent pipeline contributions to Mohawk College and Ontario Shipyards (Heddle) that depend on the credibility of Korea's university engineering ecosystem. SNU — Korea's highest-ranked institution and primary source of advanced engineering talent — is among the universities that took its partner database offline rather than defend its claimed partnerships under audit. An engineering talent pipeline certified by institutions that falsify international credentials is not an audited talent pipeline.[^9]What Remains Unanswered
+
+Since our initial submission on January 26, 2026, none of the parties that have received this documentation — including the Embassy of Canada Seoul (which holds our evidence since April 27, 2025, confirmed under ATIP ATIP-[REDACTED]) — has issued any public response, correction, or indication that these risk factors have been incorporated into the procurement evaluation.
+
+The three updates above represent new, publicly verifiable primary-source developments since our last submission on March 3, 2026. They do not require acceptance of any contested claim. They require only that the documented record be part of the evaluation.
+
+We specifically ask:
+
+That the Standing Committee on National Defence request a briefing from PSPC and Global Affairs Canada on whether Korea's March 5 "investment ultimatum" has been formally assessed as consistent with "arm's length" procurement standards.
+
+That the Fighting Against Forced Labour and Child Labour in Supply Chains Act audit be triggered for Hanwha Ocean prior to any contract down-selection — using the migrant worker documentation already in the public record.
+
+That the evaluation of Hanwha's "technology transfer" promises to Mohawk College and Ontario Shipyards incorporate the independent partnership reciprocity audit now documented across ten Korean institutions.
+
+The full evidence base, with primary source links throughout, is at:[^10]
+
+https://blog.genderwatchdog.org/blinded-by-white-how-koreas-racial-playbook-is-selling-canada-a-60b-ghost-ship/
+
+Sincerely,
+
+Gender Watchdog Advocacy for Safe Campuses in Korea Supported by End Rape On Campus (EROC)Sources
+
+[^1]: The Korea Times, "Korea to cut investments if Canada splits submarine contract" (Mar 5, 2026). https://www.koreatimes.co.kr/business/companies/20260305/korea-to-cut-investments-if-canada-splits-submarine-contract
+
+[^2]: The Hill Times (Hanwha Ocean sponsored content / KPMG study), "200,000 job-years of sustained employment: Why Hanwha's submarine bid is an economic engine for Canada" (Jan 22, 2026). https://www.hilltimes.com/sponsored/200000-job-years-of-sustained-employment-why-hanwhas-submarine-bid-is-an-economic-engine-for-canada/
+
+[^3]: CBC News, "Canada's instructions to submarine contract bidders highlight sustainment, economic benefits" (Nov 20, 2025). https://www.cbc.ca/news/politics/military-submarine-contract-bidders-9.6985543
+
+[^4]: The Korea Times, "What's lost in Canada's bid to purchase naval vessels" by Moon Keun-sik, Adjunct Prof., Hanyang University / Ret. ROK Navy submarine commander (Feb 16, 2026). https://www.koreatimes.co.kr/opinion/columns/guestcolumns/20260216/whats-lost-in-canadas-bid-to-purchase-naval-vessels
+
+[^5]: The Korea Times, "80,000 subcontracted workers seek bargaining rights on 1st day of 'yellow envelope law'" (Mar 11, 2026). https://www.koreatimes.co.kr/southkorea/society/20260311/80000-subcontracted-workers-seek-bargaining-rights-on-1st-day-of-yellow-envelope-law
+
+[^6]: The Korea Times, "Hanwha Ocean's conflict with subcontracted workers undermines Lee's praise" (Feb 20, 2026). https://www.koreatimes.co.kr/business/companies/20260220/hanwha-oceans-conflict-with-subcontracted-workers-undermines-lees-praise
+
+[^7]: Gender Watchdog, "CAU Exposed: Sexual Violence, Financial Crimes & Institutional Failure" — interactive timeline and reciprocity audit methodology. https://chungang.genderwatchdog.org/
+
+[^8]: Gender Watchdog Blog, "Die in Justice: Chung-Ang University's Partnership Fraud, Criminal Leadership, and Twenty-One Years of Sexual Violence Cover-Ups" (Mar 9, 2026). https://blog.genderwatchdog.org/chung-ang-university-partnership-fraud-sexual-violence-doosan/
+
+[^9]: Gender Watchdog Blog, "Nine Korean Universities, Zero Rebuttals: The Partnership Fraud Map Keeps Expanding" (Mar 11, 2026). https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/
+
+[^10]: Gender Watchdog Blog, "Blinded by White: How Korea's Racial Playbook Is Selling Canada a $60B 'Ghost Ship'" (Feb 20, 2026 — continuously updated). https://blog.genderwatchdog.org/blinded-by-white-how-koreas-racial-playbook-is-selling-canada-a-60b-ghost-ship/
+
+[^11]: Gender Watchdog, prior submissions archived (February 27 and March 3, 2026) — decoded copies, BCC redacted: https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/tree/master/email_emls/decoded/canadian-defence-outreach-20260227-to-0303
+
+(Le français suit)
+
+Mesdames et Messieurs les Ministres Anand et McGuinty, critiques parlementaires, membres du Parlement et Ambassade du Canada à Séoul,
+
+La présente est une mise à jour brève de nos soumissions précédentes des 27 février et 3 mars 2026.[^11] Trois développements survenus depuis notre dernière communication modifient de manière significative le profil de risque du projet d'acquisition de sous-marins de Hanwha Ocean.Mise à jour 1 : L'ultimatum d'investissement de la Corée (5 mars 2026)
+
+Le 5 mars 2026, le ministre de l'Industrie de la Corée, Kim Jung-kwan, a déclaré que « le niveau de coopération industrielle [avec le Canada] ne resterait pas le même » si Ottawa n'achetait que six sous-marins auprès de Hanwha.[^1] Dans le même article, l'ancien commandant de sous-marin de la Marine royale coréenne et professeur Moon Keun-sik a averti directement : « La Corée devrait revoir son plan d'investissement à zéro si le Canada divise le contrat. »[^1]
+
+Ce n'est pas une proposition de partenariat. C'est un levier coordonné. Cette déclaration démontre que les projections d'emplois présentées à Ottawa le 25 février 2026 — y compris le chiffre non audité de 200 000 emplois sur 15 ans, issu d'une étude KPMG commandée par Hanwha[^2] — sont explicitement conditionnelles à l'achat de la totalité des 12 sous-marins.Mise à jour 2 : La main-d'œuvre de Hanwha est en litige juridique actif (10–11 mars 2026)
+
+Le 10 mars 2026, la loi révisée sur les syndicats de la Corée — la « loi enveloppe jaune » — est entrée en vigueur. Dès le premier jour, 80 000 travailleurs sous-traitants ont déposé des demandes de négociation collective auprès de 221 entreprises, dont Hanwha Ocean de manière explicite. Cette situation s'ajoute au scandale documenté dans notre soumission du 27 février : 4 000 travailleurs migrants sous-traitants à Geoje avaient reçu des primes équivalant à seulement 46,8 % de ce que des travailleurs coréens comparables avaient reçu — une discrimination formellement dénoncée par le syndicat après que le président Lee Jae-myung eut publiquement félicité Hanwha d'avoir « mis fin à la discrimination ».
+
+La main-d'œuvre des chantiers navals de Hanwha — celle qui devrait exécuter un programme de construction de 60 milliards de dollars sur 9 ans — est désormais en pleine période de transition juridique et industrielle. C'est un risque direct pour l'exécution du projet.
+
+Source — The Korea Times, « 80,000 subcontracted workers seek bargaining rights on 1st day of 'yellow envelope law' » (11 mars 2026) :
+
+https://www.koreatimes.co.kr/southkorea/society/20260311/80000-subcontracted-workers-seek-bargaining-rights-on-1st-day-of-yellow-envelope-law
+
+Nous rappelons que la Loi sur la lutte contre le travail forcé et le travail des enfants dans les chaînes d'approvisionnement du Canada exige précisément ce type de divulgation sur la composition de la main-d'œuvre. Aucun audit n'a été déclenché malgré les preuves documentées depuis avril 2025 (ATIP ATIP-[REDACTED]).Mise à jour 3 : La carte des partenariats fantômes couvre désormais 10 universités coréennes (mars 2026)
+
+Notre audit de Chung-Ang University confirme un taux de réciprocité de seulement 27 % : sur 49 universités partenaires revendiquées disposant d'un répertoire public vérifiable, seulement 13 confirment un partenariat avec l'établissement. Parmi les 36 absentes : UC Berkeley, Université de Manchester, Nanyang Technological University (Singapour) et Duke University (dont la page Corée du Sud est vide depuis 2020).
+
+Les universités présentant des partenariats falsifiés, supprimés ou non vérifiables sont maintenant au nombre de 9 à 10 établissements documentés, incluant SNU (#1 coréen), Dongguk, Chung-Ang, Sogang, Hongik et Ajou.
+
+Cette réalité est directement liée au contrat de sous-marins : le « transfert de technologie » promis à Mohawk College et à Ontario Shipyards est garanti par un écosystème universitaire coréen dont les accréditations internationales sont désormais sous enquête indépendante.
+
+Documentation complète :
+
+https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/
+
+https://blog.genderwatchdog.org/chung-ang-university-partnership-fraud-sexual-violence-doosan/Ce qui reste sans réponse
+
+Depuis notre soumission initiale du 26 janvier 2026, aucune des parties ayant reçu ces documents — y compris l'Ambassade du Canada à Séoul, qui détient nos preuves depuis le 27 avril 2025 — n'a fourni de réponse publique. Nous demandons :
+
+Que le Comité permanent de la défense nationale demande une séance d'information sur la déclaration coréenne du 5 mars et son impact sur les critères d'évaluation « à bout de bras ».
+
+Que la Loi sur la lutte contre le travail forcé déclenche un audit de Hanwha Ocean avant toute sélection définitive de fournisseur.
+
+Que les promesses de transfert de technologie de Hanwha soient réévaluées à la lumière des constatations d'audit maintenant documentées dans dix universités coréennes.
+
+Documentation complète :
+
+https://blog.genderwatchdog.org/blinded-by-white-how-koreas-racial-playbook-is-selling-canada-a-60b-ghost-ship/
+
+Cordialement,
+
+Gender Watchdog Plaidoyer pour des campus sécuritaires en Corée Soutenu par End Rape On Campus (EROC)
+
+        Sent with Proton Mail secure email.
