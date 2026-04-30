@@ -1,0 +1,152 @@
+================================================================================
+EMAIL HEADERS
+================================================================================
+From: Gender Watchdog <advocate@genderwatchdog.org>
+To: Simona Bizzozero <simona@qs.com>, jack.grove@timeshighereducation.com
+ <jack.grove@timeshighereducation.com>, contact@shanghairanking.com
+ <contact@shanghairanking.com>, accreditation@aacsb.edu <accreditation@aacsb.edu>,
+ mediarelations@aacsb.edu <mediarelations@aacsb.edu>, seoul-cs@international.gc.ca
+ <seoul-cs@international.gc.ca>, seoulcs@international.gc.ca
+ <seoulcs@international.gc.ca>, seoul@international.gc.ca <seoul@international.gc.ca>,
+ info@chivast.cscse.org <info@chivast.cscse.org>, jylh@cscse.edu.cn <jylh@cscse.edu.cn>
+Cc: president@dongguk.edu <president@dongguk.edu>, Office of International Students
+ <adm@dongguk.edu>
+Bcc: [REDACTED]
+Subject: FWD: Stanford's John Ioannidis confirms Ranking Fraud 'Addiction' / Systemic
+ Risk in Korea
+Date: Wed, 21 Jan 2026 01:45:03 +0000
+Message-ID: <9Ag_D4VxneNpd0lVf2ycMhb-v8tJF_RzzjVrHCWfZEe3PK3eiIT5QrhYRAl5XZDkAMBd9QGjY6QGqbLMzfBKBaGhPVATnrrnoXyh2kkxcu0=@genderwatchdog.org>
+
+================================================================================
+EMAIL CONTENT
+================================================================================
+
+--- HTML CONTENT (converted to text) ---
+(Note: To officials who received a similar email on Jan.20, 2026, there is new information in this version which also includes the president and international office of Dongguk University as recipients)
+
+To the Education Attachés and Accreditation Officers (AACSB, QS, THE), Dongguk representatives and Others,
+
+We are writing with a critical update regarding our ongoing audit of South Korean higher education integrity.
+
+1. Stanford Validation of "Systemic Fraud" Please see the forwarded email chain below. Professor John Ioannidis (Stanford)—the world's most cited physician-scientist and leading expert on data integrity—has reviewed our findings on partnership falsification ("Semantic Fraud").
+
+View the Full Verified Email Chain: GitHub Source (Decoded .eml)
+
+His verdict, copied to the executives of QS, Times Higher Education, and ShanghaiRanking:
+
+"They are extremely gameable unfortunately and some institutions have become addicted to such gaming."
+
+2. The "Canadian Collapse": Dongguk University's 0% Validity Rate Following our audit, Dongguk University has attempted a "Panic Scrub" of its website to hide evidence of fraud.UBC (Univ. of British Columbia): Deleted on Jan 19, 2026, after we proved no exchange agreement exists.TMU (Toronto Metropolitan Univ.): Reverted to the dead name "Ryerson University" (indicating use of expired data).University of Manitoba: Still listed as a "Partner," but verified as FALSE.
+
+Evidence: We have confirmed with Kennis Fung (University of Manitoba) that no student exchange agreement exists.
+
+"We do not have a student exchange agreement with Dongguk University. As a result, please DO NOT include our institution in the article..."
+
+Furthermore, the University of Manitoba's own public database lists the relationship only as a non-binding MOU, not an exchange partnership.Source: University of Manitoba MoveON Database
+
+Impact: Dongguk University is misrepresenting non-binding MOUs as functional partnerships to inflate its "Internationalization" metrics for AACSB accreditation and QS rankings.
+
+3. Admission of Guilt: The Jan 19 "Panic Scrub" Yesterday (Jan 19, 2026), immediately following our inquiries, Dongguk University silently deleted UBC from its partner list. This "digital shredding" confirms they are attempting to "front-run" official audits by deleting evidence of fraud.
+
+View the Full "Panic Scrub" Forensics:Primary: https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names/
+
+Action Requested: Current university rankings (QS/THE) are "gameable" and "broken," per Professor Ioannidis. We urge AACSB and Ranking Organizations to audit Dongguk University's "Internationalization" claims immediately. They are claiming partnerships that do not exist (Manitoba) or have been deleted (UBC).
+
+The verified .eml file from the University of Manitoba is available upon request for authentication.
+
+Sincerely,
+
+Gender Watchdog 
+
+Advocating for Integrity and Safety in Higher Education 
+
+https://genderwatchdog.org/
+
+        ------- Forwarded Message -------
+
+        From: John Ioannidis 
+
+        Date: On Saturday, January 17th, 2026 at 2:29 AM
+
+        Subject: RE: China ‘marked down’ in retraction-adjusted rankings / The \"Input Side\" of Ranking Fraud (Case Study)
+
+        To: Gender Watchdog 
+
+        CC: jack.grove@timeshighereducation.com , Simona Bizzozero , contact@shanghairanking.com 
+
+Dear friends,
+
+Many thanks for sharing these insights. They highlight some major problems that make me worry a lot about reputation-based ranking processes. They are extremely gameable unfortunately and some institutions have become addicted to such gaming.
+
+Best wishes
+
+John 
+
+From: Gender Watchdog 
+
+Sent: Friday, January 16, 2026 4:00 AM
+
+To: John Ioannidis 
+
+Cc: jack.grove@timeshighereducation.com; Simona Bizzozero ; contact@shanghairanking.com
+
+Subject: RE: China ‘marked down’ in retraction-adjusted rankings / The \"Input Side\" of Ranking Fraud (Case Study)
+
+Dear Professor Ioannidis, Mr. Grove, Ms. Bizzozero and others,
+
+We read with great interest the recent analysis in Times Higher Education regarding the "Retraction-Adjusted Rankings"
+ and the subsequent penalties for institutions relying on citation gaming and self-citation rings.
+
+Article: China ‘marked down’ in scholar’s retraction-adjusted rankings (THE): https://www.timeshighereducation.com/news/china-marked-down-scholars-retraction-adjusted-rankings
+
+As an advocacy group auditing institutional integrity in South Korea, we believe we have identified the "upstream" variable that
+ fuels the very citation gaming you are analyzing. We call it "Semantic Fraud."
+
+While your work brilliantly addresses the Output Side of ranking manipulation (e.g., retractions, self-citations),
+ our recent audit of Dongguk University exposes the Input Side (e.g., falsified international partnerships).
+
+Our Analysis: The Prestige Loop: How 'Semantic Fraud' Games Global University Rankings: https://genderwatchdog.bearblog.dev/the-prestige-loop-how-semantic-fraud-games-global-university-rankings/ 
+
+Analysis Mirror: https://blog.genderwatchdog.org/the-prestige-loop-how-semantic-fraud-games-global-university-rankings/
+
+The Connection: "Prestige Bait" for HiCi Researchers
+
+You note that mid-size institutions in regions like China and Saudi Arabia often game rankings via "hyper-prolific authorship." Our data suggests a causal mechanism for how they
+ acquire these authors:
+
+The Fabrication: An institution falsifies partnerships with elite universities (Yale, Russell Group, etc.)
+ to create a "Prestige Halo." (We found 34 such falsified partners at Dongguk University alone).
+The Bait: They use this fraudulent network to recruit international staff and HiCi researchers, promising
+ them a "globally connected" research environment.
+The Result: The ranking rises due to the influx of talent, which then generates the problematic citation
+ data you are flagging.
+
+A Proposal: The "Institutional Integrity" Adjustment
+
+Just as you propose deducting points for retractions, we argue that ranking methodologies must subtract points for verified
+ institutional dishonesty.
+
+If a university claims a partnership with Yale or the University of Manchester that does not exist (as our audit confirmed with Dongguk), that is not just a marketing error—it is an
+ illegitimate boost to their International Outlook and Reputation scores.
+
+We would welcome your thoughts on how "Semantic Fraud" data—specifically verified false claims of international connectivity—could be integrated into future iterations of your adjusted
+ ranking models.
+
+Semantic Fraud: How Dongguk University's Global Network Collapsed: https://genderwatchdog.bearblog.dev/semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed/ 
+
+Audit Mirror: [https://blog.genderwatchdog.org/semantic-fraud-how-dongguk-universitys-global-network-collapsed-34-fake-partners-exposed/](https://blog.genderwatchdog.org Semantic
+ Fraud: How Dongguk University's Global Network Collapsed
+
+Sincerely,
+
+Gender Watchdog 
+
+Advocating for Integrity and Safety in Higher Education 
+
+https://genderwatchdog.org/
+
+Sent with
+Proton
+ Mail secure email.
+
+[ATTACHMENT: email-u-manitoba-fung-unredacted.png]
