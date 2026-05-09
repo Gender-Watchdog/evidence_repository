@@ -1,0 +1,815 @@
+<body style="">
+<!--본문건너뛰기-->
+<div id="wrap">
+    <div id="header">
+        <script>
+    $(document).ready(function(){
+        
+
+        //메뉴
+        var langPath = '/eng';
+
+        $('.depth02').each(function(){
+            var $div = $(this);
+            var parentSeq = $div.data('parent-seq');
+
+            $.ajax({
+                url: langPath + '/menu/list',
+                type: 'post',
+                data: {
+                    menu_info_seq: '4',
+                    menu_seq: parentSeq,
+                    flag: 'child'
+                },
+                dataType: 'json',
+                success: function(res) {
+                    var parent = [], child = [], grandChild = [];
+
+                    res.forEach(function(v){
+                        switch(v.menu_depth){
+                            case '1': parent.push(v); break;
+                            case '2': child.push(v); break;
+                            case '3': grandChild.push(v); break;
+                        }
+                    });
+
+                    var childMap = {};
+                    child.forEach(function(c){
+                        if(!childMap[c.prt_seq]) childMap[c.prt_seq] = [];
+                        childMap[c.prt_seq].push(c);
+                    });
+
+                    var grandChildMap = {};
+                    grandChild.forEach(function(g){
+                        if(!grandChildMap[g.prt_seq]) grandChildMap[g.prt_seq] = [];
+                        grandChildMap[g.prt_seq].push(g);
+                    });
+
+                    var $ul = $div.children('ul');
+                    $ul.empty(); // 중복 제거
+
+                    parent.forEach(function(p){
+                        var menuHTML = '<li>';
+
+                        if(p.menu_type === 'MNT_002'){
+                            menuHTML += '<a href="'+p.menu_link+'/list" target="'+(p.menu_link_type==='LNK_001'?'':'_blank')+'">'+p.menu_title+'</a>';
+                        } else if(p.menu_type === 'MNT_004'){
+                            menuHTML += '<a href="#none">'+p.menu_title+'</a>';
+                            menuHTML += '<ul class="depth03">';
+
+                            var children = childMap[p.menu_seq] || [];
+                            children.forEach(function(c){
+                                menuHTML += '<li>';
+                                if(c.menu_type === 'MNT_004'){
+                                    var gChildren = grandChildMap[c.menu_seq] || [];
+                                    // 첫 번째 자식(gc)이 있을 경우에만 그 링크를 사용, 없으면 #none
+                                    var firstGcLink = '#none';
+                                    var firstGcTarget = '_self'; // 기본값
+
+                                    if (gChildren.length > 0) {
+                                        var firstGc = gChildren[0];
+                                        firstGcLink = (firstGc.menu_type === 'MNT_002') ? firstGc.menu_link + '/list' : firstGc.menu_link;
+                                        firstGcTarget = (firstGc.menu_link_type === 'LNK_001') ? '' : '_blank';
+                                    }
+
+                                    // 2depth(c)의 타이틀을 출력 링크는 3depth의 첫 번째 항목 링크
+                                    menuHTML += '<a href="' + firstGcLink + '" target="' + firstGcTarget + '">' + c.menu_title + '</a>';
+                                } else {
+                                    var link = (c.menu_type==='MNT_002') ? c.menu_link+'/list' : c.menu_link;
+                                    menuHTML += '<a href="'+link+'" target="'+(c.menu_link_type==='LNK_001'?'':'_blank')+'">'+c.menu_title+'</a>';
+                                }
+                                menuHTML += '</li>';
+                            });
+
+                            menuHTML += '</ul>';
+                        } else {
+                            menuHTML += '<a href="'+p.menu_link+'" target="'+(p.menu_link_type==='LNK_001'?'':'_blank')+'">'+p.menu_title+'</a>';
+                        }
+
+                        menuHTML += '</li>';
+
+                        $ul.append(menuHTML);
+                    });
+
+                    // 모바일 해상도일 경우에만 새로 생성된 depth03 메뉴를 초기 숨김 처리
+                    if ($(window).width() <= 1200) {
+                        $div.find('.depth03').hide();
+                    }
+                }
+            });
+        });
+
+        // 팝업
+        $(".popup_btn > .close").on("click", function(){
+            $(".popup_area").removeClass("show");
+        });
+
+        var eventCookie = getCookie("imgpop_eng");
+
+        if (eventCookie == "done") {
+            $('.popup_area').removeClass('show');
+        }else{
+            
+        }
+    });
+
+
+</script>
+<script>
+
+    //SNS 공유
+    function shareSNS(sns_type){
+        switch (sns_type){
+            case "facebook":
+                window.open("https://www.facebook.com/sharer/sharer.php?u="+encodeURIComponent('https://www.dongguk.edu'));
+                break;
+            case "twitter":
+                window.open("https://twitter.com/intent/tweet"
+                    +"?"
+                    +"text="+encodeURIComponent("동국대학교 - ") // Title in this html document
+                    +"&url="+encodeURIComponent('https://www.dongguk.edu')
+                );
+                break;
+        }
+    }
+
+    function setCookie( name, value, expiredays ) {
+        if(expiredays != null){
+            var todayDate = new Date();
+            todayDate.setDate( todayDate.getDate() + expiredays );
+            document.cookie = name + "=" + escape( value ) + "; path=/; expires=" + todayDate.toGMTString() + ";"
+        }else{
+            document.cookie = name + "=" + escape( value ) + " ; path=/; ";
+        }
+    }
+
+    function closePop() {
+        setCookie( "imgpop_eng", "done" , 1 );
+        $('.popup_area').removeClass('show');
+    }
+
+    function getCookie(name) {
+        var Found = false;
+        var start, end;
+        var i = 0;
+
+        while(i <= document.cookie.length) {
+            start = i;
+            end = start + name.length;
+            if(document.cookie.substring(start, end) == name) {
+                Found = true;
+                break;
+            }
+            i++;
+        }
+        if(Found == true) {
+            start = end + 1;
+            end = start+name.length-2;
+            var value = document.cookie.match('(^|;) ?' + name + '=([^;]*)(;|$)');
+            return value? value[2] : null;
+        }
+        return;
+    }
+
+</script>
+<!--popup-->
+<div class="popup_area">
+    <div class="popup_list swiper-initialized swiper-horizontal swiper-backface-hidden">
+        <div class="indicator">
+            <div class="popup_prev swiper-button-disabled swiper-button-lock" tabindex="-1" role="button" aria-label="Previous slide" aria-controls="swiper-wrapper-34a9106872ebfe485" aria-disabled="true"><span class="blind">이전</span></div>
+            <div class="popup_next swiper-button-disabled swiper-button-lock" tabindex="-1" role="button" aria-label="Next slide" aria-controls="swiper-wrapper-34a9106872ebfe485" aria-disabled="true"><span class="blind">다음</span></div>
+        </div>
+        <ul class="popup_slide swiper-wrapper" id="swiper-wrapper-34a9106872ebfe485" aria-live="polite">
+            <li>
+                        <div class="popup-empty">No content</div>
+                    </li>
+
+                </ul>
+        <div class="popup_btn">
+            <a href="javascript:closePop();" class="today_close">Do not display again today</a>
+            <a href="#none;" class="close" target="_self">close</a>
+        </div>
+    <span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+</div>
+<!--//popup-->
+<!--skip-->
+<div class="skip_nav">
+    <a href="#content" target="_self">본문 바로가기</a>
+    <a href="#gnb" target="_self">주메뉴 바로가기</a>
+</div>
+<!--//skip-->
+<!--header-->
+<div id="header" class="header on sticky up">
+    <div class="header-wrap">
+        <div class="lnb">
+            <div class="lnb-group">
+                <div class="lnb-link">
+                    <a href="https://ndrims.dongguk.edu" target="_blank">nDRIMS</a>
+                    <a href="https://ddp.dongguk.edu/login.jsp">Dream PATH</a>
+                    <a href="https://gw.dongguk.edu/Login.aspx" target="_blank">groupware</a>
+                    <a href="https://nportal.dongguk.edu" target="_blank">portal</a>
+                    <a href="https://mail.dongguk.edu/" target="_blank">webmail</a>
+                    <a href="/eng/sitemap/detail">sitemap</a>
+                </div>
+                <div class="lnb-right">
+                    <div class="header-sns">
+                        <a href="https://www.instagram.com/dongguk_university" target="_blank" title="새 창 열림">
+                            <img src="/resources/images/site/eng/layout/common/instagram-on.svg" alt="">
+                            <span class="blind">인스타그램 바로가기</span>
+                        </a>
+                        <a href="https://www.facebook.com/dg.univ" target="_blank" title="새 창 열림">
+                            <img src="/resources/images/site/eng/layout/common/facebook-on.svg" alt="">
+                            <span class="blind">페이스북 바로가기</span>
+                        </a>
+                        <a href="https://blog.naver.com/prologue/PrologueList.nhn?blogId=ilovedongguk&amp;skinType=&amp;skinId=&amp;from=menu&amp;userSelectMenu=true" target="_blank" title="새 창 열림">
+                            <img src="/resources/images/site/eng/layout/common/blog-on.svg" alt="">
+                            <span class="blind">네이버 블로그 바로가기</span>
+                        </a>
+                        <a href="https://www.youtube.com/user/MYDGUTV" target="_blank" title="새 창 열림">
+                            <img src="/resources/images/site/eng/layout/common/youtube-on.svg" alt="">
+                            <span class="blind">유튜브 바로가기</span>
+                        </a>
+                    </div>
+                    <div class="util-wrap">
+                        <button class="popup-open">POPUP</button>
+                        <a href="/login">LOGIN</a>
+                        </div>
+                </div>
+            </div>
+        </div>
+        <div class="head-menu">
+            <h1 class="logo">
+                <a href="/eng"><img src="/resources/images/site/eng/layout/common/header-logo-on.svg" alt="Dongguk University"></a>
+            </h1>
+            <div id="gnb" class="gnb">
+                <ul class="depth01">
+                    <li>
+                            <a href="#none" target="_self">About DU</a>
+                            <div class="depth02" data-parent-seq="1773796569701" style="display:none;">
+                                <ul><li><a href="/eng/page/1510" target="">Greetings</a></li><li><a href="/eng/page/1511" target="">History</a></li><li><a href="/eng/page/1512" target="">School Spirit &amp; Symbol</a></li><li><a href="/eng/page/1539" target="">Dongguk at a Glance </a></li><li><a href="#none">Vision &amp; Strategy</a><ul class="depth03"><li><a href="/eng/page/1540" target="">VISION 2040</a></li><li><a href="/eng/page/1541" target="">D-ESG Management Strategy</a></li><li><a href="/eng/page/1506" target="">Gender Equality Plan(GEP)</a></li></ul></li><li><a href="/eng/page/1513" target="">Video Clip</a></li><li><a href="/eng/article/11511157/list" target="">Dongguk Gallery</a></li><li><a href="/eng/page/1514" target="">Contact us</a></li></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="#none" target="_self">Academics</a>
+                            <div class="depth02" data-parent-seq="1773796607436" style="display:none;">
+                                <ul><li><a href="#none">Academics</a><ul class="depth03"><li><a href="/eng/page/1515" target="">Academic Calendar</a></li><li><a href="/eng/page/1509" target="">Class Registration &amp; Grades</a></li><li><a href="https://support.dongguk.edu/unis/index.do?t=646E4D785A3034305A5778305A4568484F587058546C6C726233704E5A7A3039" target="_blank">Courses</a></li></ul></li><li><a href="#none">Colleges</a><ul class="depth03"><li><a href="/eng/dandae/321" target="">College of Buddhist Studies</a></li><li><a href="/eng/dandae/372" target="">College of Humanities</a></li><li><a href="/eng/dandae/373" target="">College of Natural Science</a></li><li><a href="/eng/dandae/374" target="">College of Law</a></li><li><a href="/eng/dandae/375" target="">College of the Social Science</a></li><li><a href="/eng/dandae/376" target="">College of Police and Criminal Justice</a></li><li><a href="https://sbaen.dongguk.edu/" target="_blank">Dongguk Business School </a></li><li><a href="https://life.dongguk.edu/" target="_blank">College of Life Science and Biotechnology</a></li><li><a href="/eng/dandae/379" target="">College of Engineering</a></li><li><a href="/eng/dandae/432" target="">College of Advanced Convergence Engineering</a></li><li><a href="/eng/dandae/380" target="">College of Education</a></li><li><a href="/eng/dandae/381" target="">College of Arts</a></li><li><a href="https://pharmen.dongguk.edu/" target="_blank">College of the Pharmacy</a></li><li><a href="/eng/dandae/383" target="">College of Future Convergence</a></li><li><a href="/eng/dandae/384" target="">Dharma College</a></li><li><a href="/eng/dandae/532" target="">School of Interdisciplinary Studies</a></li></ul></li><li><a href="#none">Graduate Schools</a><ul class="depth03"><li><a href="https://gs.dongguk.edu/eng/" target="_blank">Graduate Schools</a></li><li><a href="/eng/dandae/422" target="">Graduate School of Digital Image &amp; Contents</a></li><li><a href="https://mbaen.dongguk.edu/" target="_blank">Dongguk Business School(MBA) </a></li><li><a href="/eng/dandae/424" target="">Graduate School of Buddhist Studies</a></li><li><a href="/eng/dandae/425" target="">Graduate School of Public Administration</a></li><li><a href="/eng/dandae/472" target="">Graduate School of Police and Criminal Justice</a></li><li><a href="https://gsedu.dongguk.edu/ " target="_blank">Graduate School of Education</a></li><li><a href="https://gsess.dongguk.edu/" target="_blank">Graduate School of Education Service Science</a></li><li><a href="/eng/dandae/427" target="">Graduate School of Communication &amp; Information</a></li><li><a href="/eng/dandae/428" target="">Graduate School of Culture &amp; Arts</a></li><li><a href="/eng/dandae/429" target="">Graduate School of International Affairs &amp; Information Security</a></li><li><a href="/eng/dandae/430" target="">Graduate School of Legal Affairs</a></li></ul></li></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="#none" target="_self">Research</a>
+                            <div class="depth02" data-parent-seq="1774505056594" style="display:none;">
+                                <ul><li><a href="#none">Research Achievements</a><ul class="depth03"><li><a href="/eng/page/1542" target="">Global Academic Reputation</a></li><li><a href="/eng/article/ENGACARESE/list" target="">Research News</a></li><li><a href="https://scholarworks.dongguk.edu" target="_blank">ScholarWorks</a></li><li><a href="https://pure.dongguk.edu" target="_blank">PURE</a></li></ul></li><li><a href="https://rnd.dongguk.edu/ko/page/main.do" target="_blank">Industry-University Cooperation Foundation</a></li><li><a href="#none">Research Institutes</a><ul class="depth03"><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0301.do" target="_blank">Founding Philosophy Research Institutes</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0302.do" target="_blank">Strategic Research Institutes</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0303.do" target="_blank">General Research Institutes</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0304.do" target="_blank">Large-Scale National Project Group</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0305.do" target="_blank">Nationally Supported Research Centers</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0306.do" target="_blank">BK21 FOUR Project Group</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0307.do" target="_blank">Advanced Industry Talent Development Bootcamp Project Group</a></li></ul></li></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="#none" target="_self">Admission</a>
+                            <div class="depth02" data-parent-seq="1773796607848" style="display:none;">
+                                <ul><li><a href="https://iadmission.dongguk.edu/index_en.php" target="_blank">Undergraduates</a></li><li><a href="https://iadmission.dongguk.edu/index_en.php" target="_blank">Graduates</a></li><li><a href="#none">GKS</a><ul class="depth03"><li><a href="/eng/page/1518" target="">GKS(Undergraduate)</a></li><li><a href="/eng/page/1520" target="">GKS(Graduate)</a></li></ul></li><li><a href="#none">SRD Scholarship Admission</a><ul class="depth03"><li><a href="/eng/page/1522" target="">SRD Scholarship</a></li></ul></li></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="#none" target="_self">International</a>
+                            <div class="depth02" data-parent-seq="1773796608176" style="display:none;">
+                                <ul><li><a href="#none">Office of International Affairs</a><ul class="depth03"><li><a href="/eng/page/1524" target="">Office of International Relations</a></li><li><a href="/eng/page/1525" target="">Office of International Students</a></li></ul></li><li><a href="/eng/page/1543" target="">Partner Universities</a></li><li><a href="#none">Exchange Program</a><ul class="depth03"><li><a href="/eng/page/1527" target="">Student Exchange Program</a></li><li><a href="/eng/page/1528" target="">Scholarship for Exchange Students</a></li></ul></li><li><a href="#none"> International Summer School</a><ul class="depth03"><li><a href="https://www.dongguk.edu/eng/article/Board/list" target="_blank">Board</a></li><li><a href="/eng/page/1536" target="">Introduction</a></li><li><a href="/eng/page/1534" target="">Schedule</a></li><li><a href="/eng/page/1537" target="">Application</a></li><li><a href="/eng/page/1502" target="">Fees and Payment</a></li><li><a href="/eng/page/1503" target="">Courses</a></li><li><a href="/eng/page/1533" target="">Cultural Activities</a></li><li><a href="/eng/page/1535" target="">Housing</a></li><li><a href="/eng/page/1538" target="">Contact Us</a></li></ul></li><li><a href="#none">International Student Life</a><ul class="depth03"><li><a href="/eng/page/1529" target="">Dongguk Life</a></li><li><a href="/eng/page/1544" target="">Convenient Facilities</a></li><li><a href="/eng/page/1530" target="">Residence</a></li><li><a href="/eng/page/1531" target="">Immigration Guide</a></li><li><a href="/eng/page/1532" target="">Useful Information</a></li></ul></li><li><a href="https://interlang.dongguk.edu/index_en.php" target="_blank">Korean Language Program</a></li><li><a href="https://www.dongguk.edu/page/197" target="_blank">Student Guide Book</a></li></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="https://ilove.dongguk.edu/main" target="_blank">Giving to DU</a>
+                            <div class="depth02" data-parent-seq="1773796608537" style="display:none;">
+                                <ul></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="#none" target="_self">News</a>
+                            <div class="depth02" data-parent-seq="1773796608874" style="display:none;">
+                                <ul><li><a href="/eng/article/63820/list" target=""> News Clipping</a></li></ul>
+                            </div>
+                        </li>
+                    </ul>
+            </div>
+            <div class="menu-bg"></div>
+            <div class="head-btn-wrap">
+                <button class="lang-open">
+                    <img src="/resources/images/site/eng/layout/common/global-on.png" alt="">
+                </button>
+                <button class="search-open">
+                    <img src="/resources/images/site/eng/layout/common/search-on.svg" alt="">
+                </button>
+                <button class="menu-bar">
+                    <img src="/resources/images/site/eng/layout/common/menu-on.svg" alt="">
+                </button>
+            </div>
+        </div>
+    </div>
+</div>
+<!--//header-->
+<div class="mobile-overlay"></div>
+
+<!-- search-modal -->
+<div class="search-modal">
+    <div class="search-modal-content">
+        <div class="search-header">
+            <h2 class="search-title">SEARCH <span>DONGGUK UNIVERSITY</span></h2>
+            <button class="search-close">
+                <img src="/resources/images/site/eng/layout/common/close.svg" alt="close">
+            </button>
+        </div>
+        <div class="search-body">
+            <div class="search-form-wrap">
+                <form name="searchFrm" action="https://search.dongguk.edu/search.do?lang=en" method="get" target="_blank">
+                    <input type="hidden" name="lang" value="en">
+                    <input type="text" name="kwd" placeholder="Enter search keywords" title="Enter search keywords">
+                    <button type="submit" class="search-submit">
+                        <img src="/resources/images/site/eng/layout/common/search-on.svg" alt="search">
+                    </button>
+                </form>
+            </div>
+            <div class="keyword-wrap">
+            <h3>Popular topics</h3>
+            <div class="keyword-list">
+                <a href="https://search.dongguk.edu/search.do?kwd=Academic Calendar&amp;lang=en" target="_blank"># Academic Calendar</a>
+                <a href="https://search.dongguk.edu/search.do?kwd=Scholarship&amp;lang=en" target="_blank"># Scholarship</a>
+                <a href="https://search.dongguk.edu/search.do?kwd=library&amp;lang=en" target="_blank"># library</a>
+                <a href="https://search.dongguk.edu/search.do?kwd=Tuition&amp;lang=en" target="_blank"># Tuition</a>
+                <a href="https://search.dongguk.edu/search.do?kwd=Certificate&amp;lang=en" target="_blank"># Certificate</a>
+                <a href="https://search.dongguk.edu/search.do?kwd=Course registration&amp;lang=en" target="_blank"># Course registration</a>
+                <a href="https://search.dongguk.edu/search.do?kwd=Dormitory&amp;lang=en" target="_blank"># Dormitory</a>
+                <a href="https://search.dongguk.edu/search.do?kwd=Graduate&amp;lang=en" target="_blank"># Graduate</a>
+                <a href="https://search.dongguk.edu/search.do?kwd=Departments Programs&amp;lang=en" target="_blank"># Departments &amp; Programs</a>
+            </div>
+        </div>
+        </div>
+    </div>
+</div></div>
+        <div class="sub_top">
+    <script>
+        $(document).ready(function () {
+            var hasDepth4 = false;
+            var depth4 = "<div class='tabs'><div class='depth4'><ul>";
+
+            
+
+            depth4 += '</div></ul></div>';
+            if (hasDepth4) {
+                $('.section_tit:first').after(depth4);
+            }
+
+            switch ($('.snb_wrap .snb ul .depth .active').index()) {
+                case 0:
+                    $('.sub_visual').addClass('change1');
+                    break;
+                case 1:
+                    $('.sub_visual').addClass('change1');
+                    break;
+                case 2:
+                    $('.sub_visual').addClass('change2');
+                    break;
+                case 3:
+                    $('.sub_visual').addClass('change3');
+                    break;
+                case 4:
+                    $('.sub_visual').addClass('change4');
+                    break;
+                case 5:
+                    $('.sub_visual').addClass('change1');
+                    break;
+                case 6:
+                    $('.sub_visual').addClass('change6');
+                    break;
+                case 7:
+                    $('.sub_visual').addClass('change1');
+                    break;
+                case 8:
+                    $('.sub_visual').addClass('change7');
+                    break;
+                case 9:
+                    $('.sub_visual').addClass('change8');
+                    break;
+                case 10:
+                    $('.sub_visual').addClass('change5');
+                    break;
+                case 11:
+                    $('.sub_visual').addClass('change9');
+                    break;
+                default:
+
+            }
+        });
+    </script>
+    <div class="sub_visual_wrap sub_visual fixed"></div>
+
+    <div class="page-title">
+    <p></p>
+        <h3></h3>
+            </div>
+    <div class="snb_wrap">
+        <div class="snb">
+            <ul>
+                <li class="home"><a href="/eng/main"><span class="blind">홈</span></a></li>
+
+                </ul>
+            <ul class="util">
+                <li class="print"><a href="javascript:$('.contents').printThis(); void 0;" title="프린트"><span class="blind">인쇄</span></a></li>
+                <li class="share"><a href="#none;" title="공유" target="_self"><span class="blind">공유</span></a>
+                    <div class="social">
+                        <a class="share_icon facebook" href="javascript:shareSNS('facebook');" title="새창열림"><span class="blind">페이스북 공유하기</span></a>
+                        <a class="share_icon twitter" href="javascript:shareSNS('twitter');" title="새창열림"><span class="blind">트위터 공유하기</span></a>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+
+<div class="contents">
+            <div class="inner">
+                <div class="section_tit">
+                    <h1></h1>
+                        </div>
+                <script>
+    $(document).ready(function () {
+        // 링크#일경우 새창열기 속성 없앰
+        $("a[href ^= '#']").attr("target", "_self");
+
+        if($('.mTs div div a img.map')) {
+            var prWidth = $('#sub_contents').width();
+            checkerMapSizer(prWidth);
+        }
+    });
+
+    $(window).resize(function (){
+        var windowWidth = $( window ).width();
+        checkerMapSizer(windowWidth);
+    })
+
+    function checkerMapSizer(width) {
+        var widthPx = width + 'px';
+        $('.mTs div div a img.map').css('width',widthPx);
+        $('.mTs div div a img.map').css('max-width','798px');
+        $('.mTs div div a img.map').css('height','auto');
+        var nodes = $('.mTs div div a img.map').parent().parent().parent().parent();
+        nodes.find('div:eq(1)').next().hide();
+    }
+
+    // 탭 메뉴
+    function tab_menu(id,num) {
+        var f = $('.depart_tabmenu'+id).find('li');
+        for (var i = 0; i < f.length; i++) {
+            if (i == num) {
+                f.eq(i).addClass('active');
+                $('.menu_tab0'+id+'_' + i).show();
+            } else {
+                f.eq(i).removeClass('active');
+                $('.menu_tab0'+id+'_' + i).hide();
+            }
+        }
+    }
+
+    // 단대소개 버튼
+    function tabOpen(num){
+        var tab = $("#college_tab0"+num);
+        var btn = $("#college_btn0"+num);
+        if(tab.css("display") == "none"){
+            tab.css("display","block");
+            btn.html("▲");
+        }else{
+            tab.css("display","none");
+            btn.html("▼");
+        }
+    }
+    // 단대 포커싱
+    function tabFocus(f){
+        var offset = $(f).offset();
+        $('html, body').animate({scrollTop : offset.top}, 400);
+        $(f).find('a').first().focus();
+    }
+
+    function fn_goArea(f){
+        console.log(f);
+        var offset = $(f).offset();
+        $('html, body').animate({scrollTop : offset.top}, 400);
+        $(f).find('a').first().focus();
+    }
+
+</script>
+
+<style type="text/css">
+    .gep_banner .center h2.tit{font-size: 34px; line-height: 1.2;}
+    .gep_banner .center h3{margin-top: 5px; font-size: 24px;}
+
+    @media (max-width: 767px){
+        .cont_group.gep_dec .sig{flex-wrap: wrap; flex-direction: column;}
+        .cont_group.gep_dec .sig .name{line-height: 1.4;}
+        .cont_group.gep_dec .sig .name i{display: block; padding-left: 0;}
+    }
+
+    @media (max-width: 992px){
+    .tbl_wrap{width:100%; overflow-x:auto;}
+    .tbl{width:100%; min-width:980px;}
+    .tbl th{white-space:nowrap;}
+    }
+</style>
+<div class="gep">
+    <div class="gep_banner">
+        <div class="left">
+            <h3>HORIZON<br>
+                EUROPE</h3>
+        </div>
+
+        <div class="center">
+            <h2 class="tit">Dongguk University <br> Gender Equality Plan(GEP)</h2>
+
+            <h3>2025~2027</h3>
+        </div>
+
+        <div class="right">
+            <h3>DONGGUK<br>
+                UNIVERSITY</h3>
+        </div>
+    </div>
+
+    <div class="cont_group">
+        <h2 class="gep_tit"><span class="num">1</span> Diagnosis of Key Issues</h2>
+
+        <p>Dongguk University is committed to creating a research environment in which all members can grow and to promoting sustainable change toward an innovative organizational culture. Based on this commitment, the university has conducted the following assessment of the current situation.</p>
+
+        <div class="gep_box">
+            <ul class="dot_list">
+                <li>Faculty and Staff: The proportion of female employees among full-time staff, including faculty and administrative personnel, is 39.8%, indicating the need for improvement.</li>
+                <li>Leadership Positions: The proportion of women in major leadership and managerial positions is 18.1%, reflecting relatively low female representation in decision-making structures.</li>
+                <li>Education: A total of 25 diversity and inclusion-related courses are offered annually, representing 12.2% of all general education courses.</li>
+                <li>Research: The proportion of female researchers selected for internal research support programs is 14.4%, which remains comparatively low.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="cont_group">
+        <h2 class="gep_tit"><span class="num">2</span> Planning Process</h2>
+
+        <p>In December 2025, Dongguk University appointed a Research Gender Equality and Diversity Officer within the Office of Planning and established a Gender Equality Plan Task Force (TFT) under the Planning and Budget Office. Through this initiative, the university explored specific measures to create an inclusive research environment based on diversity.</p>
+
+        <div class="gep_box">
+            <ul class="dot_list">
+                <li>The TFT (Chair: Vice President for Planning) reviewed university disclosure data and internal documents to analyze the current situation and held meetings to develop the Gender Equality Plan.</li>
+                <li>Based on the outcomes of these meetings, a draft Gender Equality Plan was prepared and further refined through major institutional decision-making bodies such as the Policy Coordination Committee and the Academic Affairs Committee.</li>
+                <li>The finalized plan will be implemented as part of the “D-ESG Management Priority Initiatives.” The ESG Committee (Chair: President) will oversee the overall management of the Gender Equality Plan, including monitoring relevant performance indicators.</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="cont_group">
+        <h2 class="gep_tit"><span class="num">3</span> Objectives</h2>
+
+        <p>Dongguk University has established the following five key objectives for the Gender Equality Plan (GEP).</p>
+
+        <div class="gep_box">
+            <ul class="num_list type_02">
+                <li><span class="num">1</span>
+
+                    <p>Work–Life Balance : Establish systems that enable all members to maintain work–life balance while continuing their careers and academic activities.</p>
+                </li>
+                <li><span class="num">2</span>
+                    <p>Leadership : Increase the proportion of women in key committees and leadership positions involved in decision-making.</p>
+                </li>
+                <li><span class="num">3</span>
+                    <p>Recruitment : Promote gender balance throughout recruitment processes.</p>
+                </li>
+                <li><span class="num">4</span>
+                    <p>Research and Education : Integrate gender perspectives into research and educational activities.</p>
+                </li>
+                <li><span class="num">5</span>
+                    <p>Response to Gender-Based Violence : Strengthen prevention and response systems for gender-based violence.</p>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="cont_group">
+        <h2 class="gep_tit"><span class="num">4</span> Implementation Plan</h2>
+
+        <p>Dongguk University has established the following implementation plans, monitoring indicators, and responsible departments for each objective.</p>
+
+        <div class="tbl_wrap">
+            <table class="tbl">
+                <thead>
+                <tr>
+                    <th>Area</th>
+                    <th>Objective</th>
+                    <th>Implementation Plan(Draft)</th>
+                    <th>Monitoring Indicators</th>
+                    <th>Responsible Department</th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>Work–Life Balance <br>&amp;<br> Organizational Culture</td>
+                    <td>Foster a culture that supports work–life balance for faculty and staff</td>
+                    <td style="text-align: left; border-right:1px solid #795548;">
+                        <ul class="dot_list">
+                            <li>Implement institutional support programs to encourage parental leave</li>
+                            <li>Expand policies promoting a work–life balance organizational culture</li>
+                        </ul>
+                    </td>
+                    <td class="border" style="text-align: left;">
+                        <ul class="num_list type_02">
+                            <li><span class="num">1</span>
+                                <p>Operation and expansion of parental leave encouragement programs</p>
+                            </li>
+                            <li><span class="num">2</span>
+                                <p>Expansion of policies to improve organizational culture</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td>Office of Human Resources <br>and General Affairs</td>
+                </tr>
+                <tr>
+                    <td>Leadership <br>&amp;<br> Decision-Making</td>
+                    <td>Achieve gender balance in decision-making structures</td>
+                    <td style="text-align: left; border-right:1px solid #795548;">
+                        <ul class="dot_list">
+                            <li>Maintain gender balance in various committees</li>
+                            <li>Provide training and development programs for leadership positions</li>
+                        </ul>
+                    </td>
+                    <td class="border" style="text-align: left;">
+                        <ul class="num_list type_02">
+                            <li><span class="num">3</span>
+                                <p>Year-on-year improvement rate of gender balance in committees</p>
+                            </li>
+                            <li><span class="num">4</span>
+                                <p>Number of leadership training programs conducted</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td>Office of Faculty Affairs<br>
+                        President's office</td>
+                </tr>
+                <tr>
+                    <td>Recruitment <br>&amp;<br>Career Development</td>
+                    <td>Improve gender balance in faculty and staff recruitment</td>
+                    <td style="text-align: left; border-right:1px solid #795548;">
+                        <ul class="dot_list">
+                            <li>Reflect gender balance in the recruitment of new full-time faculty</li>
+                            <li>Maintain an appropriate balance of male and female employees</li>
+                        </ul>
+                    </td>
+                    <td class="border" style="text-align: left;">
+                        <ul class="num_list type_02">
+                            <li><span class="num">5</span>
+                                <p>Year-on-year improvement rate of gender balance among newly recruited faculty</p>
+                            </li>
+                            <li><span class="num">6</span>
+                                <p>Proportion of female full-time employees (faculty + staff)</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td>Office of Faculty Affairs<br>
+                        Office of Human Resources and General Affairs</td>
+                </tr>
+                <tr>
+                    <td>Gender Integration in Research<br>&amp;<br>Education </td>
+                    <td>Integrate gender innovation perspectives in research and education and foster gender-equal next-generation scholars</td>
+                    <td style="text-align: left; border-right:1px solid #795548;">
+                        <ul class="dot_list">
+                            <li>Consider gender balance of research teams and gender analysis when selecting internal research support projects</li>
+                            <li>Develop and operate diversity-inclusive courses</li>
+                        </ul>
+                    </td>
+                    <td class="border" style="text-align: left;">
+                        <ul class="num_list type_02">
+                            <li><span class="num">7</span>
+                                <p>Gender ratio in internal research support programs</p>
+                            </li>
+                            <li><span class="num">8</span>
+                                <p>Number of general education courses incorporating gender perspectives</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td>Office of National Government Project<br>
+                        Dharma College</td>
+                </tr>
+                <tr>
+                    <td>Gender-Based Violence Response</td>
+                    <td>Strengthen prevention and response systems for gender-based violence</td>
+                    <td style="text-align: left; border-right:1px solid #795548;">
+                        <ul class="dot_list">
+                            <li>Enhance promotion and awareness of the Human Rights Center</li>
+                            <li>Encourage completion of the four mandatory violence prevention trainings for faculty and staff</li>
+                        </ul>
+                    </td>
+                    <td class="border" style="text-align: left;">
+                        <ul class="num_list type_02">
+                            <li><span class="num">9</span>
+                                <p>Number of human rights awareness and prevention campaigns</p>
+                            </li>
+                            <li><span class="num">10</span>
+                                <p>Completion rate of sexual harassment and sexual violence prevention training among all members</p>
+                            </li>
+                        </ul>
+                    </td>
+                    <td>Center for Human Rights</td>
+                </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="cont_group gep_dec">
+        <p>Through the implementation of this Gender Equality Plan (GEP), Dongguk University will promote gender equality within its organizational and research and innovation (R&amp;I) systems and foster an inclusive research environment based on diversity.<br>
+            Furthermore, the university declares its commitment to contributing to the development of an innovative science and technology ecosystem.</p>
+
+        <p class="sig"><img alt="총장 윤재웅 서명" class="logo" src="/resources/images/site/layout/logo-small.png"> <span class="name">President, Dongguk University <i>Jae-woong Yun</i></span> <img alt="총장 윤재웅 서명" class="pre_sig" src="/resources/images/site/contents/pre_sign.png"></p>
+    </div>
+</div><div class="page_contact">
+        <ul>
+            <li><span>Department </span><p>Office of Planning and Budgeting</p></li>
+            <li><span>Contact</span><p>02-2260-3064</p></li>
+            </ul>
+    </div>
+</div>
+    </div>
+    <a href="#" id="scroll" target="_self" class="visible"><i class="ri-arrow-up-s-line"></i><span class="blind">TOP</span></a>
+<div class="footer">
+    <div class="container">
+        <div class="footer-group">
+            <div class="logo">
+                <img src="/resources/images/site/eng/layout/common/header-logo.svg" alt="dongguk university">
+            </div>
+            <div class="info">
+                <dl class="contact">
+                    <dt>Seoul Campus</dt>
+                    <dd>30, Pildong-ro 1-gil, Jung-gu, Seoul, 04620, Republic of Korea</dd>
+                    <dd><span>Tel. +82-2-2260-3314</span><span>&nbsp;Fax. +82-2-2260-2277</span></dd>
+                </dl>
+                <dl class="contact-mail">
+                    <dt>E-mail</dt>
+                    <dd><span>incoming@dongguk.edu</span><span>Exchange Program</span></dd>
+                    <dd><span>scf@dongguk.edu</span><span>International Students Services</span></dd>
+                    <dd><span>adm@dongguk.edu</span><span>International admission</span></dd>
+                    <dd><span>cscenter@dongguk.edu</span><span>Certificate Issuance, Education Verification</span>
+                    </dd>
+                    <dd><span>kic@dongguk.edu</span><span>Korean Language Course</span></dd>
+                </dl>
+            </div>
+        </div>
+        <p class="copyright">Copyright(c) DONGGUK UNIVERSITY. ALL RIGHTS RESERVED.</p>
+    </div>
+</div>
+<div class="sitemap-modal">
+    <div class="sitemap-modal-content">
+        <div class="sitemap-header">
+            <h2 class="sitemap-title">DONGGUK UNIVERSITY <span>SITE MAP</span></h2>
+            <button class="sitemap-close"><i class="ri-close-line"></i></button>
+        </div>
+        <div class="sitemap-body">
+        <ul class="depth01">
+                    <li>
+                            <a href="#none" target="_self">About DU</a>
+                            <div class="depth02" data-parent-seq="1773796569701" style="display:none;">
+                                <ul><li><a href="/eng/page/1510" target="">Greetings</a></li><li><a href="/eng/page/1511" target="">History</a></li><li><a href="/eng/page/1512" target="">School Spirit &amp; Symbol</a></li><li><a href="/eng/page/1539" target="">Dongguk at a Glance </a></li><li><a href="#none">Vision &amp; Strategy</a><ul class="depth03"><li><a href="/eng/page/1540" target="">VISION 2040</a></li><li><a href="/eng/page/1541" target="">D-ESG Management Strategy</a></li><li><a href="/eng/page/1506" target="">Gender Equality Plan(GEP)</a></li></ul></li><li><a href="/eng/page/1513" target="">Video Clip</a></li><li><a href="/eng/article/11511157/list" target="">Dongguk Gallery</a></li><li><a href="/eng/page/1514" target="">Contact us</a></li></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="#none" target="_self">Academics</a>
+                            <div class="depth02" data-parent-seq="1773796607436" style="display:none;">
+                                <ul><li><a href="#none">Academics</a><ul class="depth03"><li><a href="/eng/page/1515" target="">Academic Calendar</a></li><li><a href="/eng/page/1509" target="">Class Registration &amp; Grades</a></li><li><a href="https://support.dongguk.edu/unis/index.do?t=646E4D785A3034305A5778305A4568484F587058546C6C726233704E5A7A3039" target="_blank">Courses</a></li></ul></li><li><a href="#none">Colleges</a><ul class="depth03"><li><a href="/eng/dandae/321" target="">College of Buddhist Studies</a></li><li><a href="/eng/dandae/372" target="">College of Humanities</a></li><li><a href="/eng/dandae/373" target="">College of Natural Science</a></li><li><a href="/eng/dandae/374" target="">College of Law</a></li><li><a href="/eng/dandae/375" target="">College of the Social Science</a></li><li><a href="/eng/dandae/376" target="">College of Police and Criminal Justice</a></li><li><a href="https://sbaen.dongguk.edu/" target="_blank">Dongguk Business School </a></li><li><a href="https://life.dongguk.edu/" target="_blank">College of Life Science and Biotechnology</a></li><li><a href="/eng/dandae/379" target="">College of Engineering</a></li><li><a href="/eng/dandae/432" target="">College of Advanced Convergence Engineering</a></li><li><a href="/eng/dandae/380" target="">College of Education</a></li><li><a href="/eng/dandae/381" target="">College of Arts</a></li><li><a href="https://pharmen.dongguk.edu/" target="_blank">College of the Pharmacy</a></li><li><a href="/eng/dandae/383" target="">College of Future Convergence</a></li><li><a href="/eng/dandae/384" target="">Dharma College</a></li><li><a href="/eng/dandae/532" target="">School of Interdisciplinary Studies</a></li></ul></li><li><a href="#none">Graduate Schools</a><ul class="depth03"><li><a href="https://gs.dongguk.edu/eng/" target="_blank">Graduate Schools</a></li><li><a href="/eng/dandae/422" target="">Graduate School of Digital Image &amp; Contents</a></li><li><a href="https://mbaen.dongguk.edu/" target="_blank">Dongguk Business School(MBA) </a></li><li><a href="/eng/dandae/424" target="">Graduate School of Buddhist Studies</a></li><li><a href="/eng/dandae/425" target="">Graduate School of Public Administration</a></li><li><a href="/eng/dandae/472" target="">Graduate School of Police and Criminal Justice</a></li><li><a href="https://gsedu.dongguk.edu/ " target="_blank">Graduate School of Education</a></li><li><a href="https://gsess.dongguk.edu/" target="_blank">Graduate School of Education Service Science</a></li><li><a href="/eng/dandae/427" target="">Graduate School of Communication &amp; Information</a></li><li><a href="/eng/dandae/428" target="">Graduate School of Culture &amp; Arts</a></li><li><a href="/eng/dandae/429" target="">Graduate School of International Affairs &amp; Information Security</a></li><li><a href="/eng/dandae/430" target="">Graduate School of Legal Affairs</a></li></ul></li></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="#none" target="_self">Research</a>
+                            <div class="depth02" data-parent-seq="1774505056594" style="display:none;">
+                                <ul><li><a href="#none">Research Achievements</a><ul class="depth03"><li><a href="/eng/page/1542" target="">Global Academic Reputation</a></li><li><a href="/eng/article/ENGACARESE/list" target="">Research News</a></li><li><a href="https://scholarworks.dongguk.edu" target="_blank">ScholarWorks</a></li><li><a href="https://pure.dongguk.edu" target="_blank">PURE</a></li></ul></li><li><a href="https://rnd.dongguk.edu/ko/page/main.do" target="_blank">Industry-University Cooperation Foundation</a></li><li><a href="#none">Research Institutes</a><ul class="depth03"><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0301.do" target="_blank">Founding Philosophy Research Institutes</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0302.do" target="_blank">Strategic Research Institutes</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0303.do" target="_blank">General Research Institutes</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0304.do" target="_blank">Large-Scale National Project Group</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0305.do" target="_blank">Nationally Supported Research Centers</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0306.do" target="_blank">BK21 FOUR Project Group</a></li><li><a href="https://rnd.dongguk.edu/ko/page/sub/sub_0307.do" target="_blank">Advanced Industry Talent Development Bootcamp Project Group</a></li></ul></li></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="#none" target="_self">Admission</a>
+                            <div class="depth02" data-parent-seq="1773796607848" style="display:none;">
+                                <ul><li><a href="https://iadmission.dongguk.edu/index_en.php" target="_blank">Undergraduates</a></li><li><a href="https://iadmission.dongguk.edu/index_en.php" target="_blank">Graduates</a></li><li><a href="#none">GKS</a><ul class="depth03"><li><a href="/eng/page/1518" target="">GKS(Undergraduate)</a></li><li><a href="/eng/page/1520" target="">GKS(Graduate)</a></li></ul></li><li><a href="#none">SRD Scholarship Admission</a><ul class="depth03"><li><a href="/eng/page/1522" target="">SRD Scholarship</a></li></ul></li></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="#none" target="_self">International</a>
+                            <div class="depth02" data-parent-seq="1773796608176" style="display:none;">
+                                <ul><li><a href="#none">Office of International Affairs</a><ul class="depth03"><li><a href="/eng/page/1524" target="">Office of International Relations</a></li><li><a href="/eng/page/1525" target="">Office of International Students</a></li></ul></li><li><a href="/eng/page/1543" target="">Partner Universities</a></li><li><a href="#none">Exchange Program</a><ul class="depth03"><li><a href="/eng/page/1527" target="">Student Exchange Program</a></li><li><a href="/eng/page/1528" target="">Scholarship for Exchange Students</a></li></ul></li><li><a href="#none"> International Summer School</a><ul class="depth03"><li><a href="https://www.dongguk.edu/eng/article/Board/list" target="_blank">Board</a></li><li><a href="/eng/page/1536" target="">Introduction</a></li><li><a href="/eng/page/1534" target="">Schedule</a></li><li><a href="/eng/page/1537" target="">Application</a></li><li><a href="/eng/page/1502" target="">Fees and Payment</a></li><li><a href="/eng/page/1503" target="">Courses</a></li><li><a href="/eng/page/1533" target="">Cultural Activities</a></li><li><a href="/eng/page/1535" target="">Housing</a></li><li><a href="/eng/page/1538" target="">Contact Us</a></li></ul></li><li><a href="#none">International Student Life</a><ul class="depth03"><li><a href="/eng/page/1529" target="">Dongguk Life</a></li><li><a href="/eng/page/1544" target="">Convenient Facilities</a></li><li><a href="/eng/page/1530" target="">Residence</a></li><li><a href="/eng/page/1531" target="">Immigration Guide</a></li><li><a href="/eng/page/1532" target="">Useful Information</a></li></ul></li><li><a href="https://interlang.dongguk.edu/index_en.php" target="_blank">Korean Language Program</a></li><li><a href="https://www.dongguk.edu/page/197" target="_blank">Student Guide Book</a></li></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="https://ilove.dongguk.edu/main" target="_blank">Giving to DU</a>
+                            <div class="depth02" data-parent-seq="1773796608537" style="display:none;">
+                                <ul></ul>
+                            </div>
+                        </li>
+                    <li>
+                            <a href="#none" target="_self">News</a>
+                            <div class="depth02" data-parent-seq="1773796608874" style="display:none;">
+                                <ul><li><a href="/eng/article/63820/list" target=""> News Clipping</a></li></ul>
+                            </div>
+                        </li>
+                    </ul></div>
+    </div>
+</div></div>
+
+
+
+<protonpass-root-ef29 data-protonpass-role="root" data-protonpass-theme="dark"></protonpass-root-ef29></body>
