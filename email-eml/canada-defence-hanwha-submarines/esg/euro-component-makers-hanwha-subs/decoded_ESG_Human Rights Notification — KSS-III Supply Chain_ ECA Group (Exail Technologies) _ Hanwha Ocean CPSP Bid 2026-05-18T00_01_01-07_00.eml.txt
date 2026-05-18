@@ -1,0 +1,168 @@
+================================================================================
+EMAIL HEADERS
+================================================================================
+From: Gender Watchdog <advocate@genderwatchdog.org>
+To: legal@exail.com <legal@exail.com>, compliance@exail.com <compliance@exail.com>
+Subject: =?utf-8?Q?ESG/Human_Rights_Notification_=E2=80=94_KSS-III_Supply_Chain:_ECA_Group_(Exail_Technologies)_/_Hanwha_Ocean_CPSP_Bid?=
+Date: Mon, 18 May 2026 07:01:01 +0000
+Message-ID: <nEylEmz7oTZ-rWobndMFGik52Lyx0hyTooklfszFUKWnH_B2c3rO5Zp-RlX4pggRvo294l9qJwJ9Wza1KTtcnU3V4ak6UoeCiC8N54uwEok=@genderwatchdog.org>
+
+================================================================================
+EMAIL CONTENT
+================================================================================
+
+--- HTML CONTENT (converted to text) ---
+Dear ECA Group / Exail Technologies Legal and Compliance Team,
+
+This communication is addressed to ECA Group / Exail Technologies' legal and compliance teams as a formal notification under France's Loi de Vigilance. This is Gender Watchdog's first correspondence with ECA Group / Exail Technologies.
+
+Key Issues in This Notification:Article 92-6 / LGBTQ+ liability: Two Royal Canadian Navy sailors placed aboard a Hanwha Ocean vessel under South Korean military command; Korean law criminalizes consensual same-sex conduct between soldiers as "disgraceful conduct"; DND has not answered how those sailors were selected or protected; OIC complaint now on the federal record.Partnership fraud: Reciprocity audit across 9 Korean universities — 34+ falsified listings at Dongguk alone; not one institution has issued a rebuttal or counter-audit.Sexual violence rate: 61.5% of female students in Korean university arts and culture programs experience sexual violence — South Korean government data (KWDI 2020).Government withdrawals: Six Western governmental cultural entities withdrew from Jeonju International Film Festival 2026; every withdrawal nation is one Gender Watchdog formally contacted; zero withdrawals from nations not contacted.Horizon Europe GEP: Dongguk's GEP filed reactively, days before EU summit — form satisfied, substance absent; Korea's government-appointed Horizon Europe NCP is based at Chung-Ang University, which has filed nothing; EC DG R&I notified and verifying.
+
+Gender Watchdog is an independent advocacy organization documenting racialized sexual violence in Korean universities and the Korean film industry, supported by EROC (End Rape On Campus).[1] Our documentation has been acknowledged by a Canadian diplomat as a "sensitive matter" in written correspondence and overlaps with human rights concerns documented in Human Rights Watch Japan's June 2025 report on South Korea.[2][3] Our reciprocity audit across nine Korean universities has documented systematic partnership falsification — including 34 confirmed falsified listings at Dongguk University alone, with two Canadian universities confirming no active partnership with Dongguk — the University of British Columbia through a FOI records search that returned zero documents mentioning Dongguk, obtained only after a formal complaint to the BC Office of the Information and Privacy Commissioner was required to compel a response, and a second Canadian institution explicitly in writing[4]; not one of the nine audited institutions has issued a rebuttal or counter-audit.[5] Gender Watchdog has seven federal Access to Information requests on file, six of which remain active across Global Affairs Canada, National Defence, and Public Services and Procurement Canada. A formal complaint has been filed with the Office of the Information Commissioner of Canada. In March 2026, EU Delegation Counsellor Rainer Wessely confirmed that our briefing on Korean university Gender Equality Plan failures had been forwarded to EC DG Research & Innovation for active verification, with EC HQ Brussels confirmed aware as of April 6.
+
+ECA Group supplies the steering consoles — the interface layer for the submarine's navigation and maneuvering systems — to Hanwha Ocean as part of the KSS-III platform, placing ECA Group in the supply chain of a vessel whose procurement context carries documented human rights liabilities now on the formal federal record in Canada.
+
+Despite Hanwha Ocean's marketing of the KSS-III Batch II as having over 80% domestically sourced components, the critical 20% includes at least six European-manufactured systems essential to the vessel's operational capability: propulsion (3 × MTU 12V 4000 U83 diesel engines — Rolls-Royce Power Systems AG, Germany[6]), optronic mast suite (Safran Series 30 — Safran Electronics & Defense, France[7]), electronic warfare support (Pegaso RESM system — Indra Sistemas S.A., Spain[8]), weapon handling and launch system (WHLS — Babcock International, UK[9]), steering consoles (ECA Group, France), and mine-avoidance sonar (Thales, France).[10]
+
+Hanwha Ocean has submitted an unsolicited bid for Canada's Canadian Patrol Submarine Project (CPSP), a procurement estimated between $20 billion and $24 billion Canadian with a 35-year sustainment commitment, competing alongside TKMS (Germany) among others. CPSP evaluation is ongoing through summer 2026. A contract award would make European component makers long-term participants in a major NATO-aligned procurement with human rights liabilities that have now entered the formal federal oversight record in Canada.[11]
+
+We are writing to ensure that ECA Group / Exail Technologies' ESG and compliance teams have this documentation before any further supply or partnership commitments are made in connection with Hanwha Ocean's CPSP bid.
+
+61.5% of female students in Korean university arts and culture programs experience sexual violence — a direct finding of the Korean Women's Development Institute (KWDI), a South Korean government research body, in its 2020 study.[12] Among male students, the rate is 17.2%.[12:1] Gender Watchdog's independent analysis of KWDI data identifies film departments as the highest-risk academic environment of any discipline examined — a structural risk score of 81/100 derived from GW's own methodology applied to the KWDI data, a figure that does not appear in the KWDI report itself.[13] Korea Times separately reports that 66% of all sexual violence at Korean universities across all disciplines is perpetrated by male-dominated faculty.
+
+The institutional architecture producing this outcome is documented at Dongguk University's Graduate School of Digital Image & Contents. Tcha Seung-jai — founding co-CEO of Sidus FNH, one of Korea's top five film production companies, whose offices are physically located in the same building as Dongguk's film department teaching spaces — was convicted of bid-rigging by a Korean court in 2017, then promoted twice: to Research Institute Director in March 2020, and to Dean of the Graduate School in March 2023.[14] Gender Watchdog's analysis identifies this as a quadruple dependency relationship maximizing student vulnerability across four simultaneous power structures: corporate control (co-CEO of the production company sharing the department's building), academic authority (faculty member controlling grades and academic progression), industry gatekeeping (controlling access to internships, employment, and the Korean film industry), and association leadership (as President of the Korea Film Producers Association, controlling industry-wide standards and professional networking).[15] Students understood that displeasing their instructor risked not only their academic career but effective industry-wide exclusion — a structural silence mechanism built into the architecture of the program itself.[15:1] In May 2025, Sidus's law firm issued a formal legal demand for retraction of this documentation — citing a claimed 15-year absence from Dongguk's campus — while Dongguk's own archived institutional website, as of April 2025, still explicitly states that Sidus FNH is based in the same building as the film department. Gender Watchdog published the full legal threat and filed professional misconduct complaints with bar associations across Asia, Europe, and North America, including the IBA, ABA, Bar Council UK, and Singapore Law Society.[16]
+
+Dongguk also listed the University of British Columbia as a global partner; after the BC Office of Information and Privacy Commissioner intervened in a Gender Watchdog FOI request, Dongguk silently deleted UBC without correction or explanation.[17] In the same update, Dongguk replaced "Toronto Metropolitan University" — the correct legal name since April 2022 — with "Ryerson University," the name that institution retired four years earlier. An institution maintaining an active exchange relationship with TMU would be corresponding with @torontomu.ca addresses. The dead-name reversion establishes that Dongguk was copying from records so outdated they predate April 2022. Administrative errors are corrected with announcements. Fraud is corrected with silence and deletion.[17:1]
+
+The architecture of falsification continued evolving under monitoring. In May 2026, monitoring software detected all six continental partner page tabs simultaneously stripped of navigation and replaced with a new CMS template — a technique Gender Watchdog terms "CMS orphaning": content preserved at original URLs, navigation removed, replacement published at a fresh address. The new partner hub, /page/1543, presents an interactive world map of 359 institutional partners. Three Canadian spot-checks against partner institutions' own live databases: the University of Ottawa appears as a new Canadian partner — not present in Dongguk's previous partner architecture — yet U Ottawa's own student exchange database returns zero results for Dongguk across 87 listed destinations; the University of Manitoba no longer appears in Dongguk's partner hub at all, having confirmed in writing to Gender Watchdog in spring 2025 that no exchange agreement with Dongguk exists, with its own database now reflecting that reality; Toronto Metropolitan University is now correctly named on /page/1543 — Dongguk had deleted TMU in January 2026, reverted to the dead name "Ryerson" under that scrub, then restored the correct name under subsequent pressure, completing a double inversion — but the URL that TMU's own database publicly lists for the partnership returns Dongguk's own 404 error page.[18] The University of Ottawa's addition warrants specific note: Ottawa is Canada's capital and the seat of the Canadian Patrol Submarine Project procurement decision for which Hanwha Ocean has submitted a bid. Whether the addition is coincidental or deliberate, it did not survive a ten-minute reciprocity check.
+
+Dongguk is not an isolated case. Gender Watchdog has deployed automated change-detection software (Visualping) and web archive monitoring (Wayback Machine) across a sample of Korean university international partnership pages. Between January and March 2026, five institutions took their partnership databases offline or blank in rapid succession: Seoul National University, Chung-Ang University, Sogang University, Hongik University, and Ajou University. Each database was later restored, or in Sogang's case has remained dark. Not one institution issued a rebuttal, correction, or counter-audit in response to our methodology.[19]
+
+Across nine institutions, Gender Watchdog's reciprocity audit — verifying each claimed partnership against the named institution's own public database — has documented claimed partners that those institutions do not confirm: Fudan University, Beijing Foreign Studies University, Sun Yat-sen University, and East China Normal University at Keimyung; Universitas Indonesia at both Chungbuk National University and Catholic University of Korea; and Oslo at Dongguk, Ewha, and SNU — with Oslo classifying all three as faculty-level Humanities MOUs, not institution-wide student exchange agreements.[19:1] Beijing Institute of Technology has additionally confirmed in writing to Gender Watchdog that its listed relationship with a Korean partner institution is MOU-only, not a student exchange agreement. Since the publication of the nine-university audit in March 2026, Gender Watchdog's reciprocity outreach has expanded to the global top 600+ universities; three US institutions have responded to date confirming they are reviewing the agreements currently in place with Dongguk University.[20] Final results of the expanded audit remain pending a concluding manual verification pass by a human reviewer — findings to date indicate the scope of partnership falsification across the Korean university sector is likely broader than the published nine-institution sample. QS assigns "International Outlook" scores to these institutions based in part on this partnership data without independently verifying claimed partnerships against named partner databases. Professor John Ioannidis of Stanford University confirmed to Gender Watchdog that some institutions are "addicted to gaming" rankings.[21]
+
+The human cost is documented in one case with a name. Tu Anh — a 25-year-old Keimyung University graduate in International Commerce — fell to her death on October 28, 2025, fleeing an immigration raid at a car parts factory in Daegu.[22][23] She was working in a factory because her "global degree" had failed to secure her a professional visa. Only 10% of foreign bachelor's degree holders in Korea obtain an E-7 professional visa; the other 90% are trapped in precarious visa status that can collapse into deportation exposure at any moment.[22:1] The elite Chinese partnerships Keimyung used to market its International Commerce degree — Fudan, BFSU, Sun Yat-sen, ECNU — were absent from every one of those institutions' own partner databases when Gender Watchdog conducted its reciprocity audit. Keimyung's mid-tier Chinese partnerships are confirmed. The elite network used to recruit students like Tu Anh was not.[19:2]
+
+On April 1, 2026 — eight days after the EU-Korea Research and Innovation Day at the Four Seasons Hotel Seoul — automated monitoring flagged simultaneous changes to Dongguk University's Graduate School of Digital Image & Contents faculty roster.[24] Two female research visiting professors were removed entirely; the only faculty position in that tier that carried a BK21 government research funding credential was eliminated, leaving the research visiting professor tier with no government-research-linked credential of any kind. A senior male film directing professor was simultaneously transitioned to emeritus status with all four institutional contact fields stripped — both phone numbers, the research office designation, and the physical office room — leaving only a personal Naver email address.[24:1]
+
+The tenured and tenure-track faculty tier was 100% male in the July 2025 snapshot. It remained 100% male in the April 2026 snapshot. The research visiting professor tier was the only tier where women held research-credentialed positions. As of April 1, 2026, it no longer contains a government-research-linked credential of any kind. The purge occurred eight days after the institution published a Gender Equality Plan to satisfy Horizon Europe eligibility requirements — the GEP filed reactively in the same month GW published 34 falsified international partnerships.[24:2]
+
+Six Western governmental cultural entities that co-signed the Jeonju International Film Festival's international legitimacy in 2025 are absent from the 2026 partner roster — confirmed by HTML comparison of JIFF's own partners page.[25][26] Canada's federal wordmark. The Québec Government Office Seoul. Japan Foundation Seoul. The Australian Embassy Seoul. The French Embassy culture section. AC/E — Acción Cultural Española, Spain's Ministry of Culture international cultural action agency. The five nations those entities represent — Canada, Japan, France, Australia, and Spain — are the exact five nations Gender Watchdog formally contacted, on the record, about the sexual violence crisis documented inside Korea's film education ecosystem. Zero withdrawals occurred from nations that did not receive our documentation.[27]
+
+The French Embassy culture section — France's diplomatic cultural arm in Seoul — was among the six that withdrew. ECA Group / Exail Technologies, as a French-domiciled entity subject to Loi de Vigilance, operates under the same home-government regulatory framework as the embassy that made that exit.
+
+A seventh entity also withdrew and warrants separate note: KOFICE — Korea's own government agency for projecting Korean culture internationally (한국국제문화교류진흥원) — is absent from JIFF 2026. Gender Watchdog made no direct outreach to KOFICE. Its departure represents Korea's own institutional assessment of the festival's current risk environment.[27:1]
+
+Korea became the first Asian country to associate with Horizon Europe, provisionally from January 1, 2025, giving Korean researchers access to its €53.5 billion research budget on equal terms with EU member states. Gender Equality Plans have been a mandatory eligibility criterion for all Horizon Europe applicants since 2022.
+
+Dongguk University published a Gender Equality Plan on March 18, 2026 — six days before the EU-Korea Research and Innovation Day at the Four Seasons Hotel Seoul — making it the only institution among all twelve Korean universities represented at that forum with a publicly accessible GEP.[28] Dongguk's GEP Task Force was formed in December 2025 — the same month Gender Watchdog published multi-language documentation of 34 falsified international partnerships at that institution. Gender Watchdog infers the GEP was filed reactively, not as a proactive institutional commitment, and that its timing tracks GW's public disclosure, not Dongguk's internal governance calendar.[28:1] EU Delegation Counsellor Rainer Wessely confirmed that GW's pre-event briefing had been shared "with the respective units in RTD dealing with international and gender equality" and that the Delegation would verify GEP conformity. The plan meets formal checklist requirements while failing substantive ones: no remedy mechanism for documented existing cases, no independent oversight, no student participation, and no sex-disaggregated data for the arts programs where KWDI documented the highest structural risk.[28:2]
+
+The pattern is directly relevant to European companies whose supply chains run through Korean institutional partners: the same institution that cannot meet EU Horizon Europe's human rights eligibility standards — and filed a compliance document in direct response to being publicly exposed — is the institutional environment in which Hanwha Ocean operates and recruits.
+
+Canada has placed two Royal Canadian Navy submariners aboard the ROKS Dosan Ahn Chang-ho — a Hanwha Ocean vessel — for its trans-Pacific voyage to CFB Esquimalt; under Article 92-6 of South Korea's Military Criminal Act, consensual same-sex conduct between soldiers is classified as "disgraceful conduct" punishable by up to two years in prison, and Canada's Department of National Defence has not answered — through its statutory ATIP process or otherwise — how those two sailors were selected, whether any legal assessment of Article 92-6 exposure was produced, or how LGBTQ+ Canadian Forces members are protected under a 35-year sustainment contract with a fleet whose governing law directly contradicts the Canadian Human Rights Act s.3(1).[29] The OIC complaint is now on the formal federal record; every possible DND response to the Commissioner's investigation is evidence. Korea's willingness to actively suppress that discourse is on record: when Gender Watchdog posted documentation of sexual violence against LGBT military personnel on DC Inside — Korea's largest online forum — across 20+ university communities in July 2025, every post was deleted within 12–15 hours; DC Inside's written response states LGBT military keywords were not on their automated censorship list, implying deletion orders came from outside the platform.[30]
+
+Loi de Vigilance — Formal Notification
+
+France's Loi de Vigilance (Law No. 2017-399) requires companies with 5,000 or more employees in France, or 10,000 or more employees worldwide, to establish and implement a plan de vigilance identifying and preventing human rights risks within their own operations, their subsidiaries, and their relations commerciales établies — established commercial relationships, including subcontractors and suppliers. ECA Group / Exail Technologies (Exail Technologies S.A.S.), as a French-domiciled entity, falls within scope to the extent it meets the statutory employee threshold; given Exail's confirmed Code of Ethics and compliance infrastructure, Gender Watchdog is providing this notification to the legal and compliance teams as a matter of record. ECA Group / Exail Technologies' supply relationship with Hanwha Ocean constitutes an established commercial relationship under the Act's terms. The human rights risks documented in this submission — racialized sexual violence in the Korean university sector, fraudulent academic partnership claims used to recruit international students into exploitative conditions, and the lethal outcome documented in Tu Anh's case — are published, placed on record, and formally notified. The Loi de Vigilance requires identification of foreseeable risks; foreseeability is established when a risk has been formally notified in writing. This email constitutes that notification.
+
+Defence / LGBTQ+ / ATIP documentation series:
+
+Part 1 — "Criminalizing the Crew: Korea's Article 92-6, Canada's Armed Forces Law, and the Conflict Arriving at Esquimalt" (April 5, 2026):
+https://blog.genderwatchdog.org/korea-military-article-92-6-canada-cpsp-lgbtq-conflict-esquimalt/
+
+Part 2 — "Two Sailors, One Question DND Cannot Answer: The Selection Criteria That Implicate Canada's Armed Forces Law" (April 11, 2026):
+https://blog.genderwatchdog.org/rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip/
+
+Part 3 — "They Were Watching. Then We Filed the ATIP. Then They Switched to GitHub." (May 15, 2026):
+https://blog.genderwatchdog.org/dispersed-vpn-surveillance-atip-collapse-dnd-2026/
+
+Korean university sector documentation:
+
+"Nine Korean Universities, Zero Rebuttals: The Partnership Fraud Map Keeps Expanding" (March 11, 2026):
+https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/
+
+"JIFF 2026: The Nations That Left and the Pattern They Left Behind" (April 21, 2026):
+https://blog.genderwatchdog.org/jiff-2026-nations-that-left/
+
+"GEP Theatre and the Unguarded Gate" (March 18, 2026):
+https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/
+
+"Deadly Fraud: Did Ranking Inflation Kill Tu Anh?" (February 6, 2026):
+https://blog.genderwatchdog.org/deadly-fraud-did-ranking-inflation-kill-tu-anh/
+
+Six-Month Surveillance and Censorship Timeline (May–October 2025):
+https://blog.genderwatchdog.org/surveillance-censorship-timeline/
+
+Prior direct notification to Hanwha Ocean ESG and ethics teams (July 13, 2025) — no response received to date:
+https://github.com/Gender-Watchdog/evidence_repository/blob/master/email-eml/canada-defence-hanwha-submarines/esg/hanwha/decoded_%EA%B8%B4%EA%B8%89_%20%ED%95%9C%EA%B5%AD%20%EB%8C%80%ED%95%99%20%EB%82%B4%20%EC%B2%B4%EA%B3%84%EC%A0%81%20%EC%84%B1%ED%8F%AD%EB%A0%A5%20-%20%ED%95%9C%EA%B5%AD%20%EA%B8%B0%EC%97%85%EC%9D%98%20%EC%A4%91%EB%8C%80%ED%95%9C%20ESG%20%EB%B0%8F%20%ED%8F%89%ED%8C%90%20%EC%9C%84%ED%97%98%202025-07-13T14_00_03-07_00.eml
+
+Xiaohongshu victim testimonies — direct accounts of sexual violence at Dongguk University from verified platform users (usernames withheld for safety): graduate admissions sexual violence account and film program peer sexual violence account (May 2025):
+https://blog.genderwatchdog.org/xiaohongshu-viral-metrics-real-time-collapse-of-dongguk-universitys-china-recruitment-pipeline/
+
+Primary archive:
+https://genderwatchdog.org
+https://blog.genderwatchdog.org
+
+Gender Watchdog is an advocacy organization supported by EROC (End Rape On Campus). A Canadian diplomat has formally recognized the racialized sexual violence crisis in Korean universities as a "sensitive matter" in written correspondence. In March 2026, Rainer Wessely, Counsellor for Digital and Research at the EU Delegation to the Republic of Korea, confirmed our briefing on Korean university GEP compliance failures had been forwarded to EC DG Research & Innovation for active verification, with EC HQ Brussels confirmed aware as of April 6. A formal OIC complaint is now on file at the federal level in Canada. Our documentation overlaps with human rights concerns documented in Human Rights Watch Japan's June 2025 report on South Korea.
+
+Contact: advocate@genderwatchdog.org
+Website: https://genderwatchdog.orgSources
+
+EROC (End Rape On Campus). https://endrapeoncampus.org/ ↩︎
+
+Gender Watchdog — X post, redacted screenshot of Canadian diplomat "sensitive matter" email (October 31, 2025). https://twitter.com/Gender_Watchdog/status/1984263771922301125 ↩︎
+
+Human Rights Watch (Japan office), "South Korea: Human Rights Issues for New Government" (June 24, 2025). https://www.hrw.org/ja/news/2025/06/24/south-korea-human-rights-issues-for-new-government ↩︎
+
+Gender Watchdog Blog, "Title IX Risk Advisory: Structural Sexual Violence Exposure at Dongguk University, Seoul." https://blog.genderwatchdog.org/title-ix-risk-advisory-structural-sexual-violence-exposure-at-dongguk-university-seoul/ — Includes verbatim email responses: anonymous Canadian university confirming no student exchange agreement with Dongguk; anonymous US institution confirming it is reviewing all exchange agreements with Dongguk. Email screenshots published. ↩︎
+
+Gender Watchdog Blog, "Nine Korean Universities, Zero Rebuttals: The Partnership Fraud Map Keeps Expanding" (March 11, 2026). https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/ ↩︎
+
+Naval News, "Hanwha Ocean Launches First KSS-III Batch II Submarine" (October 22, 2025). https://www.navalnews.com/naval-news/2025/10/hanwha-ocean-launches-first-kss-iii-batch-ii-submarine/ — Verbatim: "3 x Rolls-Royce MTU 12V 4000 U83 Diesel Engine" ↩︎
+
+Safran Group, official press release, "Sagem signs contract with DSME to supply optronic surveillance masts for South Korea's new KSS-III submarines" (October 27, 2014). https://www.safran-group.com/media/20141027_sagem-contract-dsme-supply-optronic-masts-south-koreas-new-kss-iii-submarines — Batch I and Batch II confirmed: Naval News (April 16, 2025). https://www.navalnews.com/naval-news/2025/04/safran-upgrades-submarines-optronic-masts-with-ai/ ↩︎
+
+Janes Defence, "South Korean Navy commissions first KSS-III class SLBM-capable submarine" (August 13, 2021). https://www.janes.com/osint-insights/defence-news/south-korean-navy-commissions-first-kss-iii-class-slbm-capable-submarine ↩︎
+
+Naval News, "South Korea to Develop New VLS and SLBM for Its Submarines" (September 2023). https://www.navalnews.com/naval-news/2023/09/south-korea-to-develop-new-vls-and-slbm-for-its-submarines/ — Verbatim: "Babcock International WHLS (K761 Tiger Shark, C-Star-III)" ↩︎
+
+19FortyFive, "South Korea's KSS-III Lithium-Ion Battery Stealth Submarine Is Like Nothing the Navy Has" (December 27, 2025). https://www.19fortyfive.com/2025/12/south-koreas-kss-iii-lithium-ion-battery-stealth-submarine-is-like-nothing-the-navy-has/ — Names ECA Group steering consoles and Thales mine-avoidance sonar ↩︎
+
+Gender Watchdog Blog, "Two Sailors, One Question DND Cannot Answer" (April 11, 2026). https://blog.genderwatchdog.org/rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip/ ↩︎
+
+Korean Women's Development Institute (KWDI), Sexual Violence in Arts Education After MeToo: Current Status and Policy Issues (2020). https://eng.kwdi.re.kr/inc/download.do?ut=A&upIdx=102748&no=1 ↩︎ ↩︎
+
+Gender Watchdog Blog, "Sexual Violence in Arts Education After Me Too: GW Analysis of KWDI 2020 Data." https://blog.genderwatchdog.org/sexual-violence-in-arts-education-after-me-too-current-status-and-policy-issues/ ↩︎
+
+Gender Watchdog Blog, "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions" (February 18, 2026). https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/ ↩︎
+
+Gender Watchdog Blog, "The Alleged Predatory Appointment and Government Cover-Up: How IEQAS Certification Enables Systematic Corporate-Academic Exploitation at Dongguk University" (September 23, 2025). https://blog.genderwatchdog.org/the-alleged-predatory-appointment-and-government-cover-up-how-ieqas-certification-enables-systematic-corporate-academic-exploitation-at-dongguk-university/ ↩︎ ↩︎
+
+Gender Watchdog Blog, "Sidus Legal Threat Backfires: Evidence of Corporate Panic and Institutional Cover-Up at Dongguk University" (May 27, 2025). https://blog.genderwatchdog.org/sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university/ — Full legal threat PDF published; bar association complaints filed with IBA, ABA, Bar Council UK, Singapore Law Society, Korean Bar Association, and others. ↩︎
+
+Gender Watchdog Blog, "The 'Panic Scrub': Dongguk University Deletes UBC Partners, Reverts to 'Dead Names' in Failed Cover-Up" (January 19, 2026). https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names/ — Archive: https://archive.md/jZsL9 ↩︎ ↩︎
+
+Gender Watchdog Blog, "Caught on Monitor: The 24-Hour GEP Window, CMS Surgery, and Dongguk's Fake Partner Hub" (May 9, 2026). https://blog.genderwatchdog.org/dongguk-gep-24-hour-window-partner-page-orphaning-2026/ ↩︎
+
+Gender Watchdog Blog, "Nine Korean Universities, Zero Rebuttals: The Partnership Fraud Map Keeps Expanding" (March 11, 2026). https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/ ↩︎ ↩︎ ↩︎
+
+Gender Watchdog Blog, "Title IX and Fake Partnerships: Dongguk University Under Global Review." https://blog.genderwatchdog.org/title-ix-and-fake-partnerships-dongguk-university-under-global-review/ — Documents three US institutions confirming they are reviewing agreements with Dongguk. ↩︎
+
+Gender Watchdog — Email correspondence with Professor John Ioannidis (Stanford University), January 17, 2026. https://github.com/Gender-Watchdog/genderwatchdog_metookorea2025/blob/master/email_emls/decoded/ionnadis-ranking-orgs-chain/decoded_RE_%20China%20%E2%80%98marked%20down%E2%80%99%20in%20retraction-adjusted%20rankings%20_%20The%20__Input%20Side__%20of%20Ranking%20Fraud%20(Case%20Study)%202026-01-17T02_29_40%2B09_00.eml ↩︎
+
+Gender Watchdog Blog, "Deadly Fraud: Did Ranking Inflation Kill Tu Anh?" (February 6, 2026). https://blog.genderwatchdog.org/deadly-fraud-did-ranking-inflation-kill-tu-anh/ ↩︎ ↩︎
+
+VnExpress, "25-year-old Vietnamese graduate dies after hiding during South Korea immigration raid" (December 18, 2025). https://e.vnexpress.net/news/news/25-year-old-vietnamese-graduate-dies-after-hiding-during-south-korea-immigration-raid-4995520.html ↩︎
+
+Gender Watchdog Blog, "Two Profiles, Two Cleanup Tracks: Dongguk Scrubs Its Film Faculty Eight Days After the EU-Korea Research Summit" (April 1, 2026). https://blog.genderwatchdog.org/dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026/ ↩︎ ↩︎ ↩︎
+
+JIFF Partners Page (26th edition, 2025) — Wayback Machine archive (December 28, 2025). https://web.archive.org/web/20251228231945/https://eng.jeonjufest.kr/about_jiff/partner.asp ↩︎
+
+JIFF Partners Page (27th edition, 2026) — Wayback Machine capture (April 21, 2026). https://web.archive.org/web/20260421232240/https://eng.jeonjufest.kr/about_jiff/partner.asp ↩︎
+
+Gender Watchdog Blog, "JIFF 2026: The Nations That Left and the Pattern They Left Behind" (April 21, 2026). https://blog.genderwatchdog.org/jiff-2026-nations-that-left/ ↩︎ ↩︎
+
+Gender Watchdog Blog, "GEP Theatre and the Unguarded Gate: Dongguk Filed a Hollow Form; Chung-Ang Has Horizon Europe's NCP Role and No Form at All" (March 18, 2026). https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/ ↩︎ ↩︎ ↩︎
+
+Gender Watchdog Blog, "Criminalizing the Crew: Korea's Article 92-6, Canada's Armed Forces Law, and the Conflict Arriving at Esquimalt" (April 5, 2026). https://blog.genderwatchdog.org/korea-military-article-92-6-canada-cpsp-lgbtq-conflict-esquimalt/ ↩︎
+
+Gender Watchdog Blog, "Korean Government Systematic Censorship of LGBT Military Content: Evidence of Institutional Suppression" (July 6, 2025). https://blog.genderwatchdog.org/korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression/ ↩︎
