@@ -1,0 +1,247 @@
+================================================================================
+EMAIL HEADERS
+================================================================================
+From: Gender Watchdog <advocate@genderwatchdog.org>
+To: ethicsoffice@asml.com <ethicsoffice@asml.com>, investor.relations@asml.com
+ <investor.relations@asml.com>
+Cc: marieke.mulder@asml.com <marieke.mulder@asml.com>, wayne.allan@asml.com
+ <wayne.allan@asml.com>
+Bcc: [REDACTED]
+Subject: =?utf-8?Q?CSDDD_Due_Diligence_Notification_=E2=80=94_Samsung_Group_Governance_Loop,_KSS-III_Batch_II_/_Canadian_Patrol_Submarine_Project_(CPSP)_|_Human_Rights_Documentation_=E2=80=94_Gender_Watchdog_/_EROC?=
+Date: Tue, 19 May 2026 08:00:00 +0000
+Message-ID: <9ZBrcp_iF0rIW6sHWbXvlaIXI0i4_YmtyW7uwMvfPE8gHrQEtvaUkgeVDySiMYLvEbesAEig10dajhGdTdMVhvU0Z2D6RczbfFrBfNc6yHY=@genderwatchdog.org>
+
+================================================================================
+EMAIL CONTENT
+================================================================================
+
+--- HTML CONTENT (converted to text) ---
+This is a formal human rights due diligence notification submitted to ASML Holding N.V.'s Ethics Office, Investor Relations, and ESG leadership. It is being filed as part of Gender Watchdog's ongoing escalation of documented human rights liabilities connected to the Canadian Patrol Submarine Project (CPSP) procurement environment.
+
+TL;DR: Three ESG crises are converging in the Samsung chaebol ecosystem this week, all connecting to ASML's established commercial relationships: Samsung SDI's COTS battery cells — from the same Göd, Hungary plant confirmed to have concealed carcinogens at 510 times the permitted level — are the propulsion differentiator in Hanwha Ocean's bid for Canada's $20–24 billion CPSP; Samsung Electronics, ASML's primary Korean EUV customer, faces a sovereign labour rights escalation in which the Korean government is threatening to breach ILO treaty obligations ratified under the EU-Korea FTA to suppress a lawful strike; and the broader human rights environment of that procurement has now entered the formal federal oversight record in Canada. Under the CSDDD foreseeability standard, this email constitutes formal notification.
+
+Key Issues in This Notification:Samsung Group governance accountability loop: Samsung Electronics — ASML's largest Korean EUV customer, whose commercial dependency on ASML's EUV machines is direct and absolute — owns 19.58% of Samsung SDI, the sole COTS battery cell supplier for the KSS-III Batch II submarine's propulsion system. The KSS-III Batch II is the vessel at the centre of Hanwha Ocean's bid for Canada's $20–24 billion CPSP. Note: Samsung held a 3% ownership stake in ASML from 2012 until December 2023, when it fully divested; the relationship is now purely commercial, which does not reduce the due diligence chain.Samsung SDI EU environmental violation: Samsung SDI's Göd, Hungary battery plant concealed carcinogenic substances at 510 times the permitted level (February 2026) — Bloomberg/AFP-confirmed; active CSDDD-relevant concern within the EU perimeter now, not a future risk.Samsung Electronics sovereign labour suppression: More than 47,000 semiconductor workers scheduled to strike May 21, 2026; Korean government threatening to invoke Article 76 to forcibly halt a legal strike — the first such invocation in nearly 21 years — in direct breach of ILO Conventions 87 and 98 ratified under the EU-Korea Free Trade Agreement. AmCham Korea has formally expressed concerns over the dispute's potential impact on global chip supply chains.Article 92-6 / LGBTQ+ liability: Two Royal Canadian Navy sailors placed aboard a Hanwha Ocean vessel under South Korean military command; Korean law criminalizes consensual same-sex conduct between soldiers as "disgraceful conduct"; DND has not answered how those sailors were selected or protected; OIC complaint now on the federal record.Partnership fraud: Reciprocity audit across 9 Korean universities — 34 confirmed falsified listings at Dongguk alone; not one institution has issued a rebuttal or counter-audit.Sexual violence rate: 61.5% of female students in Korean university arts and culture programs experience sexual violence — South Korean government data (KWDI 2020).Government withdrawals: Six Western governmental cultural entities withdrew from Jeonju International Film Festival 2026; every withdrawal nation is one Gender Watchdog formally contacted; zero withdrawals from nations not contacted.Horizon Europe GEP: Dongguk's GEP filed reactively, days before EU summit — form satisfied, substance absent; Korea's government-appointed Horizon Europe NCP is based at Chung-Ang University, which has filed nothing; EC DG R&I notified and verifying.Executive Summary
+
+This notification documents four convergent CSDDD due diligence concerns requiring ASML's formal attention.
+
+First, Samsung SDI's Göd, Hungary plant — confirmed in February 2026 to have concealed carcinogenic substances at 510 times the permitted level — is the sole COTS battery cell supplier for the KSS-III Batch II submarine at the centre of Hanwha Ocean's $20–24 billion Canadian Patrol Submarine Project bid. Samsung SDI is already within the CSDDD's active perimeter; the CPSP connection places its ESG record directly inside ASML's commercial due diligence chain.
+
+Second, Samsung Electronics — ASML's largest Korean EUV machine customer — is this week facing a sovereign labour rights escalation: the Korean government is threatening to invoke emergency arbitration powers to halt a lawful strike by more than 47,000 semiconductor workers, in direct breach of ILO Conventions 87 and 98 ratified under the EU-Korea Free Trade Agreement's sustainability chapter. This is a state-level treaty breach, by ASML's primary Korean commercial partner, under obligations made explicitly to the European Union.
+
+Third, Samsung Electronics' 19.58% ownership of Samsung SDI creates a chaebol governance loop connecting ASML's largest Korean commercial relationship to the submarine programme at the centre of Canada's largest active defence procurement.
+
+Fourth, formal written notification of documented human rights risks triggers CSDDD foreseeability obligations. This email constitutes that notification. The full evidentiary record follows.1. Gender Watchdog — Identity and Credibility
+
+Gender Watchdog is an independent advocacy organization documenting racialized sexual violence in Korean universities and the Korean film industry, supported by EROC (End Rape On Campus).[1] Our documentation has been acknowledged by a Canadian diplomat as a "sensitive matter" in written correspondence and overlaps with human rights concerns documented in Human Rights Watch Japan's June 2025 report on South Korea.[2][3] Our reciprocity audit across nine Korean universities has documented systematic partnership falsification — including 34 confirmed falsified listings at Dongguk University alone, with two Canadian universities confirming no active partnership with Dongguk — the University of British Columbia through a FOI records search that returned zero documents mentioning Dongguk, obtained only after a formal complaint to the BC Office of the Information and Privacy Commissioner was required to compel a response, and a second Canadian institution explicitly in writing[4]; not one of the nine audited institutions has issued a rebuttal or counter-audit.[5] Gender Watchdog has seven federal Access to Information requests on file, six of which remain active across Global Affairs Canada, National Defence, and Public Services and Procurement Canada. A formal complaint has been filed with the Office of the Information Commissioner of Canada. In March 2026, EU Delegation Counsellor Rainer Wessely confirmed that our briefing on Korean university Gender Equality Plan failures had been forwarded to EC DG Research & Innovation for active verification, with EC HQ Brussels confirmed aware as of April 6.2. Why ASML Is Receiving This Notification: The Samsung Chaebol Accountability Loop
+
+ASML Holding N.V. is Samsung Electronics' primary EUV lithography equipment partner. Samsung cannot manufacture advanced semiconductors without ASML's EUV machines — Korea is one of ASML's largest revenue markets and Samsung is its largest Korean customer. Samsung committed 1.1 trillion won ($773 million) in 2025 to acquire two of ASML's most advanced High-NA EUV lithography machines.[6] The commercial relationship has deep roots: Samsung originally acquired a 3% strategic ownership stake in ASML in 2012 to co-fund EUV development, then fully divested that position in December 2023 — with both companies publicly confirming at the time of divestment that collaboration would continue.[7] The binding element of the relationship is commercial dependency, not equity.
+
+Samsung Electronics is the largest single shareholder of Samsung SDI, holding a 19.58% stake.[8]
+
+Samsung SDI is the sole battery cell supplier for the KSS-III Batch II submarine programme. South Korea's Defense Acquisition Program Administration (DAPA) chose Hanwha Defense as the LIB system integrator in 2019; cells come from Samsung SDI and are explicitly described in specialist military reporting as "based on commercial off-the-shelf (COTS) technology, similar to cell phone batteries."[9] Hanwha Ocean has submitted an unsolicited bid for Canada's Canadian Patrol Submarine Project (CPSP), a procurement estimated at between $20 billion and $24 billion Canadian with a 35-year sustainment commitment, competing alongside TKMS (Germany) among others. CPSP evaluation is ongoing through summer 2026. The first KSS-III Batch II vessel — the Jang Yeong-sil, launched October 2025 at Hanwha Ocean's Geoje shipyard — is the class whose cell chemistry, sourced from Samsung SDI's COTS supply chain, represents the propulsion differentiation Hanwha is marketing to Canada.[10]
+
+The governance accountability loop is this: ASML's largest Korean commercial relationship (Samsung Electronics, primary buyer of ASML EUV tools — the machines without which Samsung cannot produce advanced chips) owns 19.58% of the sole battery cell supplier (Samsung SDI) for the vessel (KSS-III Batch II) at the centre of a major NATO-aligned submarine procurement (CPSP) whose human rights environment has now entered the formal federal oversight record in Canada. This notification formally places that chain on ASML's CSDDD pre-compliance record.
+
+The significance of the Korean routing is clarified by comparison: TKMS, the competing German bidder with the Type 212CD already in production for Norway and Germany, would give Canada a direct EU supply chain and a single CSDDD-jurisdiction accountability chain. Hanwha routes the same European components — French optics, German engines, Spanish electronics, British weapons handling — through a Korean institutional ecosystem; ESG obligations attached to those components by their home jurisdictions do not disappear at the Korean border. Full component architecture documentation: https://blog.genderwatchdog.org/korean-sub-not-korean-cpsp-esg/
+
+This notification does not claim that Samsung Electronics chips are present in the submarine's Battery Management System — the BMS chip supplier for the submarine-grade application is not publicly disclosed. The claim being made is the chaebol ownership structure and the foreseeability it creates.3. Samsung Group: Two Active ESG Crises, One Week
+
+Note: Samsung Electronics and Samsung SDI are separate legal entities that share chaebol governance — Samsung Electronics is the largest shareholder of Samsung SDI, holding a 19.58% stake.
+
+Samsung SDI — Battery Supplier EU Environmental Violation
+
+Samsung SDI's battery plant in Göd, Hungary was confirmed in February 2026 to have concealed carcinogenic substances at 510 times the permitted level — reported by Telex, confirmed at Bloomberg/AFP tier, with Hungary's Supreme Court ultimately revalidating the certification under contested circumstances.[11][12] Samsung SDI is the sole COTS cell supplier for the KSS-III Batch II submarine — the vessel at the centre of Hanwha Ocean's CPSP bid.[9:1] This places Samsung SDI within the CSDDD's active perimeter now, not as a future risk.
+
+Samsung Electronics — Sovereign Labour Rights Escalation
+
+What is directly relevant to ASML's CSDDD obligations is not the strike itself — more than 47,000 unionized semiconductor workers at Samsung Electronics are scheduled to walk off the job on May 21, 2026 for an 18-day stoppage, and Korea's Suwon District Court has partially restricted but not prohibited the walkout[13] — but the Korean government's threatened response. Prime Minister Kim Min-seok has stated the government may invoke Article 76 of Korea's Trade Union and Labor Relations Adjustment Act — a mechanism used only four times since 1963 and not once in nearly 21 years — to forcibly suspend a legal strike.[14] President Lee Jae Myung has written publicly that fundamental rights "may be restricted for public welfare."[15]
+
+Korea ratified ILO Conventions 87 and 98 — freedom of association and the right to collective bargaining — in April 2021, under the sustainability chapter of the EU-Korea Free Trade Agreement.[16] Under ILO Committee on Freedom of Association jurisprudence, emergency arbitration to halt a lawful strike is permissible only for essential services — those whose interruption would endanger life, safety, or health. Semiconductor manufacturing does not qualify. Invoking Article 76 here would be a direct breach of treaty obligations Korea made explicitly to the European Union. The American Chamber of Commerce in Korea (AMCHAM) formally expressed concerns over "the potential impact that the ongoing labor dispute at Samsung Electronics could have on global chip supply chains."[17]
+
+The relevance extends beyond Samsung Electronics. Korea Times reporting confirms the same profit-sharing demands are now spreading to HD Hyundai Heavy Industries — Korea's flagship shipbuilder — and across other major industrial groups.[18] Hanwha Ocean is a shipbuilder. A 35-year CPSP sustainment contract would bind Canada to ongoing supply relationships with Korean industry under a legal framework in which the Korean government has demonstrated, this week, its willingness to override workers' legal right to strike when exports are at stake.
+
+Days after Canada's Secretary of State (Defence Procurement) Stephen Fuhr[19] toured the Hanwha Ocean Geoje shipyard on February 2, 2026 as part of CPSP procurement evaluation, unionized workers exposed that 4,000 migrant subcontracted workers had received year-end bonuses equal to only 46.8% of what Korean subcontracted workers at the same site received — despite President Lee having publicly called the bonus equalization a 'desirable' corporate culture.[20]4. Korean University Sexual Violence: The KWDI Data and Dongguk Bridge
+
+61.5% of female students in Korean university arts and culture programs experience sexual violence — a direct finding of the Korean Women's Development Institute (KWDI), a South Korean government research body, in its 2020 study.[21] Among male students, the rate is 17.2%.[21:1] Gender Watchdog's independent analysis of KWDI data identifies film departments as the highest-risk academic environment of any discipline examined — a structural risk score of 81/100 derived from GW's own methodology applied to the KWDI data, a figure that does not appear in the KWDI report itself.[22] Korea Times separately documents that 65.5% of graduate students who experienced sexual violence identified their professors as the perpetrators.[23]
+
+The institutional architecture producing this outcome is documented at Dongguk University's Graduate School of Digital Image & Contents. Tcha Seung-jai — founding co-CEO of Sidus FNH, one of Korea's top five film production companies, whose offices are physically located in the same building as Dongguk's film department teaching spaces — was convicted of bid-rigging by a Korean court in 2017, then promoted twice: to Research Institute Director in March 2020, and to Dean of the Graduate School in March 2023.[24] Gender Watchdog's analysis identifies this as a quadruple dependency relationship maximizing student vulnerability across four simultaneous power structures: corporate control, academic authority, industry gatekeeping, and association leadership (as President of the Korea Film Producers Association).[25] Students understood that displeasing their instructor risked not only their academic career but effective industry-wide exclusion — a structural silence mechanism built into the architecture of the program itself.[25:1] In May 2025, Sidus's law firm issued a formal legal demand for retraction of this documentation — citing a claimed 15-year absence from Dongguk's campus — while Dongguk's own archived institutional website, as of April 2025, still explicitly states that Sidus FNH is based in the same building as the film department. Gender Watchdog published the full legal threat and filed professional misconduct complaints with bar associations across Asia, Europe, and North America, including the IBA, ABA, Bar Council UK, and Singapore Law Society.[26]
+
+Dongguk also listed the University of British Columbia as a global partner; after the BC Office of Information and Privacy Commissioner intervened in a Gender Watchdog FOI request, Dongguk silently deleted UBC without correction or explanation.[27] In the same update, Dongguk replaced "Toronto Metropolitan University" — the correct legal name since April 2022 — with "Ryerson University," the name that institution retired four years earlier. Administrative errors are corrected with announcements. Fraud is corrected with silence and deletion.[27:1]
+
+The architecture of falsification continued evolving under monitoring. In May 2026, monitoring software detected all six continental partner page tabs simultaneously stripped of navigation and replaced with a new CMS template. The new partner hub presents an interactive world map of 359 institutional partners. Three Canadian spot-checks against partner institutions' own live databases: the University of Ottawa appears as a new Canadian partner — not present in Dongguk's previous partner architecture — yet U Ottawa's own student exchange database returns zero results for Dongguk across 87 listed destinations; the University of Manitoba no longer appears in Dongguk's partner hub at all, having confirmed in writing to Gender Watchdog that no exchange agreement with Dongguk exists; Toronto Metropolitan University is now correctly named — but the URL that TMU's own database publicly lists for the partnership returns Dongguk's own 404 error page.[28]5. Korea-Wide Monitoring: Nine Universities, Software-Caught Takedowns
+
+Dongguk is not an isolated case. Gender Watchdog has deployed automated change-detection software (Visualping) and web archive monitoring (Wayback Machine) across a sample of Korean university international partnership pages. Between January and March 2026, five institutions took their partnership databases offline or blank in rapid succession: Seoul National University, Chung-Ang University, Sogang University, Hongik University, and Ajou University. Not one institution issued a rebuttal, correction, or counter-audit.[29]
+
+Across nine institutions, Gender Watchdog's reciprocity audit — verifying each claimed partnership against the named institution's own public database — has documented claimed partners that those institutions do not confirm: Fudan University, Beijing Foreign Studies University, Sun Yat-sen University, and East China Normal University at Keimyung; Universitas Indonesia at both Chungbuk National University and Catholic University of Korea; and Oslo at Dongguk, Ewha, and SNU — with Oslo classifying all three as faculty-level Humanities MOUs, not institution-wide student exchange agreements.[29:1] Since the publication of the nine-university audit in March 2026, three US institutions have responded to date confirming they are reviewing the agreements currently in place with Dongguk University.[30]
+
+The human cost is documented in one case with a name. Tu Anh — a 25-year-old Keimyung University graduate in International Commerce — fell to her death on October 28, 2025, fleeing an immigration raid at a car parts factory in Daegu.[31][32] She was working in a factory because her "global degree" had failed to secure her a professional visa. Only 10% of foreign bachelor's degree holders in Korea obtain an E-7 professional visa; the other 90% are trapped in precarious visa status. The elite Chinese partnerships Keimyung used to market its International Commerce degree were absent from every one of those institutions' own partner databases when Gender Watchdog conducted its reciprocity audit.[29:2]6. Faculty Purge: April 1, 2026
+
+On April 1, 2026 — eight days after the EU-Korea Research and Innovation Day at the Four Seasons Hotel Seoul — automated monitoring flagged simultaneous changes to Dongguk University's Graduate School of Digital Image & Contents faculty roster.[33] Two female research visiting professors were removed entirely; the only faculty position in that tier carrying a BK21 government research funding credential was eliminated. A senior male film directing professor was simultaneously transitioned to emeritus status with all four institutional contact fields stripped.
+
+The tenured and tenure-track faculty tier was 100% male in the July 2025 snapshot. It remained 100% male in the April 2026 snapshot. The research visiting professor tier was the only tier where women held research-credentialed positions. As of April 1, 2026, it no longer contains a government-research-linked credential of any kind. The purge occurred eight days after the institution published a Gender Equality Plan to satisfy Horizon Europe eligibility requirements.[33:1]7. Six Western Governments Withdraw from JIFF 2026
+
+Six Western governmental cultural entities that co-signed the Jeonju International Film Festival's international legitimacy in 2025 are absent from the 2026 partner roster — confirmed by HTML comparison of JIFF's own partners page.[34][35] Canada's federal wordmark. The Québec Government Office Seoul. Japan Foundation Seoul. The Australian Embassy Seoul. The French Embassy culture section. AC/E — Acción Cultural Española, Spain's Ministry of Culture international cultural action agency. The five nations those entities represent — Canada, Japan, France, Australia, and Spain — are the exact five nations Gender Watchdog formally contacted, on the record, about the sexual violence crisis documented inside Korea's film education ecosystem. Zero withdrawals occurred from nations that did not receive our documentation.[36]
+
+The Netherlands — as ASML's home jurisdiction — was not represented at JIFF. The six simultaneous exits from five nations that received Gender Watchdog's documentation constitute cross-jurisdictional institutional validation at the state cultural diplomacy level. A seventh entity withdrew without Gender Watchdog's direct outreach: KOFICE — Korea's own government agency for projecting Korean culture internationally — is absent from JIFF 2026, representing Korea's own institutional assessment of the festival's current risk environment.[36:1]8. Article 92-6: The Procurement Liability
+
+Canada has placed two Royal Canadian Navy submariners aboard the ROKS Dosan Ahn Chang-ho — a Hanwha Ocean vessel — for its trans-Pacific voyage to CFB Esquimalt. Under Article 92-6 of South Korea's Military Criminal Act, consensual same-sex conduct between soldiers is classified as "disgraceful conduct" punishable by up to two years in prison; Canada's Department of National Defence has not answered how those sailors were selected, whether any legal assessment of Article 92-6 exposure was produced, or how LGBTQ+ Canadian Forces members are protected under a 35-year sustainment contract with a fleet whose governing law directly contradicts the Canadian Human Rights Act s.3(1).[37] Full documentation, including evidence of Korean government suppression of LGBT military discourse, is at the link below.[38]9. EU Horizon Europe and GEP Theatre
+
+Korea became the first Asian country to associate with Horizon Europe, provisionally from January 1, 2025, giving Korean researchers access to its €53.5 billion research budget. Gender Equality Plans have been a mandatory eligibility criterion for all Horizon Europe applicants since 2022.
+
+Dongguk University published a Gender Equality Plan on March 18, 2026 — six days before the EU-Korea Research and Innovation Day at the Four Seasons Hotel Seoul — making it the only institution among all twelve Korean universities represented at that forum with a publicly accessible GEP.[39] Dongguk's GEP Task Force was formed in December 2025 — the same month Gender Watchdog published multi-language documentation of 34 falsified international partnerships. EU Delegation Counsellor Rainer Wessely confirmed that GW's pre-event briefing had been shared "with the respective units in RTD dealing with international and gender equality" and that the Delegation would verify GEP conformity. The plan meets formal checklist requirements while failing substantive ones: no remedy mechanism for documented existing cases, no independent oversight, no student participation, and no sex-disaggregated data for the arts programs where KWDI documented the highest structural risk.[39:1]10. CSDDD Due Diligence Framing — Netherlands / ASML
+
+ASML Holding N.V. is domiciled in Eindhoven, Netherlands. With approximately 44,000 employees[40] and annual revenue of approximately €28 billion, ASML falls squarely within the large-company scope of the EU Corporate Sustainability Due Diligence Directive (CSDDD, Directive 2024/1760)[41], which requires large enterprises to identify, prevent, mitigate, and account for adverse human rights and environmental impacts in their own operations and established business relationships. The member state transposition deadline is July 26, 2027; company compliance date is July 26, 2029; the Netherlands is currently transposing the Directive.
+
+ASML's commercial relationship with Samsung Electronics constitutes an established business relationship under the Directive's terms — Samsung is one of ASML's largest EUV machine customers, and Korea is one of ASML's largest revenue markets. Samsung Electronics' 19.58% ownership of Samsung SDI — the entity whose COTS cells power the KSS-III Batch II's propulsion system — connects ASML's established commercial ecosystem to the documented human rights environment of the CPSP procurement context. Under CSDDD, foreseeability of adverse impact is a key compliance standard: formal written notification of documented human rights risks triggers the foreseeability requirement. This email constitutes that notification.
+
+ASML's Responsible Business Alliance (RBA) membership creates parallel obligations: the RBA Code of Conduct covers labour standards, health and safety, environmental standards, and ethics across all tier-1 supplier and major partner relationships. Samsung Electronics' Hungary subsidiary and Samsung SDI's EU plant operations are within the geographic scope of both the RBA Code and the CSDDD.
+
+ASML's own Human Rights Policy states that it "conducts human rights due diligence" and that this applies to its own operations, subsidiaries, and supply chain. The Ethics Office (ethicsoffice@asml.com) explicitly accepts submissions from external third parties per ASML's published governance documentation — this notification is submitted through that channel.
+
+Prior direct notification to Hanwha Ocean's ESG and ethics teams was sent July 13, 2025; no response has been received to date.[42]11. Surveillance Pattern and ATIP Record
+
+Prior to any ATIP filing, Fathom Analytics recorded a 7-week coordinated access pattern across Gender Watchdog's public websites — 37 low-traffic countries each contributing 1–2 visits per day, consistent with VPN exit-node rotation — which ceased within 8 days of a direct submission to DND and the Prime Minister's Office. Following ATIP filings in April 2026, web traffic collapsed by approximately 82% while GitHub clone activity surged to over 150 events in two days inside the statutory response window; DND subsequently failed to respond to 2 of 4 ATIP requests within the statutory period. Full analytics exports, timeline, and statistical analysis are published at the link below.[43]12. Full Documentation Links
+
+CPSP / Samsung ESG chain — companion analysis:
+"The Korean Submarine That Isn't: How Hanwha's CPSP Bid Routes ESG Risk Through Seoul" (May 19, 2026):
+https://blog.genderwatchdog.org/korean-sub-not-korean-cpsp-esg/
+
+Defence / LGBTQ+ / ATIP documentation series:
+
+Part 1 — "Criminalizing the Crew: Korea's Article 92-6, Canada's Armed Forces Law, and the Conflict Arriving at Esquimalt" (April 5, 2026):
+https://blog.genderwatchdog.org/korea-military-article-92-6-canada-cpsp-lgbtq-conflict-esquimalt/
+
+Part 2 — "Two Sailors, One Question DND Cannot Answer: The Selection Criteria That Implicate Canada's Armed Forces Law" (April 11, 2026):
+https://blog.genderwatchdog.org/rcn-sailors-roks-dosan-article-92-6-selection-criteria-atip/
+
+Part 3 — "They Were Watching. Then We Filed the ATIP. Then They Switched to GitHub." (May 15, 2026):
+https://blog.genderwatchdog.org/dispersed-vpn-surveillance-atip-collapse-dnd-2026/
+
+Korean university sector documentation:
+
+"Nine Korean Universities, Zero Rebuttals: The Partnership Fraud Map Keeps Expanding" (March 11, 2026):
+https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/
+
+"JIFF 2026: The Nations That Left and the Pattern They Left Behind" (April 21, 2026):
+https://blog.genderwatchdog.org/jiff-2026-nations-that-left/
+
+"GEP Theatre and the Unguarded Gate" (March 18, 2026):
+https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/
+
+"Deadly Fraud: Did Ranking Inflation Kill Tu Anh?" (February 6, 2026):
+https://blog.genderwatchdog.org/deadly-fraud-did-ranking-inflation-kill-tu-anh/
+
+Six-Month Surveillance and Censorship Timeline (May–October 2025):
+https://blog.genderwatchdog.org/surveillance-censorship-timeline/
+
+Prior direct notification to Hanwha Ocean ESG and ethics teams (July 13, 2025) — no response received to date:
+https://github.com/Gender-Watchdog/evidence_repository/blob/master/email-eml/canada-defence-hanwha-submarines/esg/hanwha/decoded_%EA%B8%B4%EA%B8%89_%20%ED%95%9C%EA%B5%AD%20%EB%8C%80%ED%95%99%20%EB%82%B4%20%EC%B2%B4%EA%B3%84%EC%A0%81%20%EC%84%B1%ED%8F%AD%EB%A0%A5%20-%20%ED%95%9C%EA%B5%AD%20%EA%B8%B0%EC%97%85%EC%9D%98%20%EC%A4%91%EB%8C%80%ED%95%9C%20ESG%20%EB%B0%8F%20%ED%8F%89%ED%8C%90%20%EC%9C%84%ED%97%98%202025-07-13T14_00_03-07_00.eml
+
+Xiaohongshu victim testimonies — direct accounts of sexual violence at Dongguk University from verified platform users (usernames withheld for safety):
+https://blog.genderwatchdog.org/xiaohongshu-viral-metrics-real-time-collapse-of-dongguk-universitys-china-recruitment-pipeline/
+
+Full correspondence and evidence archive (GitHub):
+
+All prior government submissions (7 submissions to DND, PMO, NDDN, Senate — January–May 2026), ATIP filings, ESG outreach emails, and surveillance documentation as published EML files:
+https://github.com/Gender-Watchdog/evidence_repository/tree/master/email-eml/canada-defence-hanwha-submarines
+
+European KSS-III component maker ESG notifications (May 18, 2026) — all sent emails published as evidence:
+https://github.com/Gender-Watchdog/evidence_repository/tree/master/email-eml/canada-defence-hanwha-submarines/esg/euro-component-makers-hanwha-subs
+
+Primary archive:
+https://genderwatchdog.org
+https://blog.genderwatchdog.org13. Credentials
+
+Gender Watchdog is an advocacy organization supported by EROC (End Rape On Campus). A Canadian diplomat has formally recognized the racialized sexual violence crisis in Korean universities as a "sensitive matter" in written correspondence. In March 2026, Rainer Wessely, Counsellor for Digital and Research at the EU Delegation to the Republic of Korea, confirmed our briefing on Korean university GEP compliance failures had been forwarded to EC DG Research & Innovation for active verification, with EC HQ Brussels confirmed aware as of April 6. A formal OIC complaint is now on file at the federal level in Canada. Our documentation overlaps with human rights concerns documented in Human Rights Watch Japan's June 2025 report on South Korea.
+
+Contact: advocate@genderwatchdog.org
+
+Website: https://genderwatchdog.org
+
+EROC (End Rape On Campus). https://endrapeoncampus.org/ ↩︎
+
+Gender Watchdog — X post, redacted screenshot of Canadian diplomat "sensitive matter" email (October 31, 2025). https://twitter.com/Gender_Watchdog/status/1984263771922301125 ↩︎
+
+Human Rights Watch (Japan office), "South Korea: Human Rights Issues for New Government" (June 24, 2025). https://www.hrw.org/ja/news/2025/06/24/south-korea-human-rights-issues-for-new-government ↩︎
+
+Gender Watchdog Blog, "Title IX Risk Advisory: Structural Sexual Violence Exposure at Dongguk University, Seoul." https://blog.genderwatchdog.org/title-ix-risk-advisory-structural-sexual-violence-exposure-at-dongguk-university-seoul/ — Includes verbatim email responses: anonymous Canadian university confirming no student exchange agreement with Dongguk; anonymous US institution confirming it is reviewing all exchange agreements with Dongguk. Email screenshots published. ↩︎
+
+Gender Watchdog Blog, "Nine Korean Universities, Zero Rebuttals: The Partnership Fraud Map Keeps Expanding" (March 11, 2026). https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/ ↩︎
+
+KED Global, "Samsung Electronics To Spend $773 Million on Two ASML EUV Machines" (October 2025). https://www.kedglobal.com/korean-chipmakers/newsView/ked202510150011 ↩︎
+
+Samsung Semiconductor (Tech Blog), "The Quiet Revolution: Samsung 7LPP EUV Starts Production." https://semiconductor.samsung.com/news-events/tech-blog/the-quiet-revolution-samsung-7lpp-euv-starts-production/ — Verbatim (2012 investment, now fully divested): "Samsung has been one of the biggest customers of ASML...in 2012 it invested nearly 1billioninthatcompany,includingnearly1billioninthatcompany,includingnearly650 million for a minority 3 percent ownership stake." — Full divestment confirmed December 2023: Bloomberg, "Samsung Sells Down Entire ASML Stake to Expand in New Arenas" (February 21, 2024). https://www.bloomberg.com/news/articles/2024-02-21/samsung-sells-down-entire-asml-stake-to-expand-in-new-arenas — Post-divestment collaboration confirmed: Reuters via Nasdaq (February 21, 2024). https://www.nasdaq.com/articles/samsung-electronics-sold-remaining-asml-shares-in-q4-company-filing-shows ↩︎
+
+Wikipedia, "Samsung SDI — Corporate Governance" (as of 30 June 2023). https://en.wikipedia.org/wiki/Samsung_SDI — Samsung Electronics: 19.58%; National Pension Service: 7.47%; BlackRock: 5.01%. ↩︎
+
+European Security & Defence (Mittler Report), "Developments in Lithium-ion Batteries and AIP Systems for Submarines" (December 2023). https://euro-sd.com/2023/12/articles/34972/developments-in-lithium-ion-batteries-and-aip-systems-for-submarines/ — Verbatim: "Cells come from Samsung SDI and are based on commercial off-the-shelf (COTS) technology, similar to cell phone batteries." ↩︎ ↩︎
+
+Naval News, "Hanwha Ocean Launches First KSS-III Batch II Submarine" (October 22, 2025). https://www.navalnews.com/naval-news/2025/10/hanwha-ocean-launches-first-kss-iii-batch-ii-submarine/ ↩︎
+
+The Chosun Daily (English), "Samsung SDI's Hungary Plant Conceals Carcinogens 510 Times Over Standard" (February 10, 2026). https://www.chosun.com/english/world-en/2026/02/10/X5AKSVKNGFHVNPQS6J3RXLXNV4/ ↩︎
+
+Bloomberg, "Samsung Regains Hungary Environment Permit Amid Toxicity Scandal" (February 11, 2026). https://www.bloomberg.com/news/articles/2026-02-11/samsung-regains-hungary-environment-permit-amid-toxicity-scandal ↩︎
+
+The Korea Times, "Court puts brakes on Samsung unions' strike plan amid final round of talks over bonuses" (May 18, 2026). https://www.koreatimes.co.kr/business/companies/20260518/court-puts-brakes-on-samsung-unions-strike-plan-amid-final-round-of-talks-over-bonuses — More than 47,000 union members had expressed intention to join the walkout; court classified wafer preservation as essential work (semiconductor/chip division confirmed); 18-day strike from May 21. ↩︎
+
+The Korea Times, "Explainer: How Korea's little-used power to freeze legal strike works" (May 18, 2026). https://www.koreatimes.co.kr/southkorea/society/20260518/explainer-how-koreas-little-used-power-to-freeze-legal-strike-works — Article 76 invocations: 1969 (shipbuilding), 1993 (Hyundai Group), twice in 2005 (airline strikes); if invoked: immediate 30-day ban; defiance treated as criminal. ↩︎
+
+Korea Herald, "Samsung's strike countdown enters final stage" (May 17, 2026). https://www.koreaherald.com/article/10739461 — Prime Minister Kim Min-seok stated the government may invoke emergency arbitration; President Lee Jae Myung wrote that fundamental rights "may be restricted for public welfare." ↩︎
+
+ILO NORMLEX — Korea ratification of Convention No. 87 (Freedom of Association) and Convention No. 98 (Right to Organise and Collective Bargaining), April 2021. https://normlex.ilo.org/dyn/normlex/en/f?p=NORMLEXPUB:11200:0::NO::P11200_COUNTRY_ID:103144 — Under ILO CFA jurisprudence, emergency arbitration permissible only for essential services (life, safety, health); semiconductor manufacturing does not qualify. ↩︎
+
+The Korea Times, "AmCham Korea expresses concerns over Samsung labor dispute" (May 11, 2026). https://www.koreatimes.co.kr/business/companies/20260511/amcham-korea-expresses-concerns-over-samsung-labor-dispute — "The American Chamber of Commerce in Korea (AMCHAM) expressed concerns Monday over the potential impact that the ongoing labor dispute at Samsung Electronics could have on global chip supply chains, as the company's management and labor unions resumed their wage negotiations 10 days before the unions' planned strike." ↩︎
+
+The Korea Times (editorial), "Profit-linked pay demands spread" (May 17, 2026). https://www.koreatimes.co.kr/opinion/editorial/20260517/ed-profit-linked-pay-demands-spread — Demands spreading to HD Hyundai Heavy Industries (30% of operating profit), Hyundai Motor, Samsung Biologics, and others. ↩︎
+
+Public Services and Procurement Canada, "Government of Canada Advances to Next Step in Canadian Patrol Submarine Project Procurement" (August 26, 2025). https://www.canada.ca/en/public-services-procurement/news/2025/08/government-of-canada-advances-to-next-step-in-canadian-patrol-submarine-project-procurement.html — Confirms Stephen Fuhr's ministerial title verbatim as "Secretary of State (Defence Procurement)" and his oversight role for the Canadian Patrol Submarine Project. ↩︎
+
+The Korea Times, "Hanwha Ocean's conflict with subcontracted workers undermines Lee's praise" (February 20, 2026). https://www.koreatimes.co.kr/business/companies/20260220/hanwha-oceans-conflict-with-subcontracted-workers-undermines-lees-praise — 4,000 migrant subcontracted workers received year-end bonuses equal to 46.8% of Korean subcontracted workers' bonuses at the same Geoje site; disclosed after President Lee publicly praised the arrangement as equal treatment. ↩︎
+
+Korean Women's Development Institute (KWDI), Sexual Violence in Arts Education After MeToo: Current Status and Policy Issues (2020). https://eng.kwdi.re.kr/inc/download.do?ut=A&upIdx=102748&no=1 ↩︎ ↩︎
+
+Gender Watchdog Blog, "Sexual Violence in Arts Education After Me Too: GW Analysis of KWDI 2020 Data." https://blog.genderwatchdog.org/sexual-violence-in-arts-education-after-me-too-current-status-and-policy-issues/ ↩︎
+
+The Korea Times, "Professors are main perpetrators of sexual abuse at graduate schools: survey" (June 2, 2021). https://www.koreatimes.co.kr/southkorea/society/20210602/professors-are-main-perpetrators-of-sexual-abuse-at-graduate-schools-survey — "Among the respondents who experienced sexual harassment or assault, 65.5 percent, or 36, said the perpetrators were their professors." ↩︎
+
+Gender Watchdog Blog, "From Indictment to Dean's Office: How Dongguk University Rewarded a Criminal Conviction with Promotions" (February 18, 2026). https://blog.genderwatchdog.org/from-indictment-to-deans-office-how-dongguk-university-rewarded-a-criminal-conviction-with-promotions/ ↩︎
+
+Gender Watchdog Blog, "The Alleged Predatory Appointment and Government Cover-Up: How IEQAS Certification Enables Systematic Corporate-Academic Exploitation at Dongguk University" (September 23, 2025). https://blog.genderwatchdog.org/the-alleged-predatory-appointment-and-government-cover-up-how-ieqas-certification-enables-systematic-corporate-academic-exploitation-at-dongguk-university/ ↩︎ ↩︎
+
+Gender Watchdog Blog, "Sidus Legal Threat Backfires: Evidence of Corporate Panic and Institutional Cover-Up at Dongguk University" (May 27, 2025). https://blog.genderwatchdog.org/sidus-legal-threat-backfires-evidence-of-corporate-panic-and-institutional-cover-up-at-dongguk-university/ — Full legal threat PDF published; bar association complaints filed with IBA, ABA, Bar Council UK, Singapore Law Society, Korean Bar Association, and others. ↩︎
+
+Gender Watchdog Blog, "The 'Panic Scrub': Dongguk University Deletes UBC Partners, Reverts to 'Dead Names' in Failed Cover-Up" (January 19, 2026). https://blog.genderwatchdog.org/panic-scrub-dongguk-deletes-ubc-reverts-to-dead-names/ — Archive snapshot: https://archive.md/jZsL9 ↩︎ ↩︎
+
+Gender Watchdog Blog, "Caught on Monitor: The 24-Hour GEP Window, CMS Surgery, and Dongguk's Fake Partner Hub" (May 9, 2026). https://blog.genderwatchdog.org/dongguk-gep-24-hour-window-partner-page-orphaning-2026/ ↩︎
+
+Gender Watchdog Blog, "Nine Korean Universities, Zero Rebuttals: The Partnership Fraud Map Keeps Expanding" (March 11, 2026). https://blog.genderwatchdog.org/nine-universities-zero-rebuttals-korea-partnership-fraud/ ↩︎ ↩︎ ↩︎
+
+Gender Watchdog Blog, "Title IX and Fake Partnerships: Dongguk University Under Global Review." https://blog.genderwatchdog.org/title-ix-and-fake-partnerships-dongguk-university-under-global-review/ ↩︎
+
+Gender Watchdog Blog, "Deadly Fraud: Did Ranking Inflation Kill Tu Anh?" (February 6, 2026). https://blog.genderwatchdog.org/deadly-fraud-did-ranking-inflation-kill-tu-anh/ ↩︎
+
+VnExpress, "25-year-old Vietnamese graduate dies after hiding during South Korea immigration raid" (December 18, 2025). https://e.vnexpress.net/news/news/25-year-old-vietnamese-graduate-dies-after-hiding-during-south-korea-immigration-raid-4995520.html ↩︎
+
+Gender Watchdog Blog, "Two Profiles, Two Cleanup Tracks: Dongguk Scrubs Its Film Faculty Eight Days After the EU-Korea Research Summit" (April 1, 2026). https://blog.genderwatchdog.org/dongguk-faculty-purge-paper-faculty-eu-cleanup-april-2026/ ↩︎ ↩︎
+
+JIFF Partners Page (26th edition, 2025) — Wayback Machine archive (December 28, 2025). https://web.archive.org/web/20251228231945/https://eng.jeonjufest.kr/about_jiff/partner.asp ↩︎
+
+JIFF Partners Page (27th edition, 2026) — Wayback Machine capture (April 21, 2026). https://web.archive.org/web/20260421232240/https://eng.jeonjufest.kr/about_jiff/partner.asp ↩︎
+
+Gender Watchdog Blog, "JIFF 2026: The Nations That Left and the Pattern They Left Behind" (April 21, 2026). https://blog.genderwatchdog.org/jiff-2026-nations-that-left/ ↩︎ ↩︎
+
+Gender Watchdog Blog, "Criminalizing the Crew: Korea's Article 92-6, Canada's Armed Forces Law, and the Conflict Arriving at Esquimalt" (April 5, 2026). https://blog.genderwatchdog.org/korea-military-article-92-6-canada-cpsp-lgbtq-conflict-esquimalt/ ↩︎
+
+Gender Watchdog Blog, "Korean Government Systematic Censorship of LGBT Military Content: Evidence of Institutional Suppression" (July 6, 2025). https://blog.genderwatchdog.org/korean-government-systematic-censorship-of-lgbt-military-content-evidence-of-institutional-suppression/ ↩︎
+
+Gender Watchdog Blog, "GEP Theatre and the Unguarded Gate: Dongguk Filed a Hollow Form; Chung-Ang Has Horizon Europe's NCP Role and No Form at All" (March 18, 2026). https://blog.genderwatchdog.org/gep-theatre-dongguk-chung-ang-horizon-europe-unguarded-gate/ ↩︎ ↩︎
+
+ASML Holding N.V., 2024 Annual Report (2025). https://www.asml.com/en/investors/annual-report/2024 — ASML employed approximately 44,000 people worldwide as of end-2024; net system sales of €28.3 billion in fiscal year 2024. ↩︎
+
+EU Corporate Sustainability Due Diligence Directive (CSDDD), as amended by Omnibus I (Directive 2026/470, published Official Journal of the EU February 26, 2026, in force March 18, 2026). Scope: EU companies with >5,000 employees AND >€1.5 billion net worldwide turnover; non-EU companies generating >€1.5 billion net turnover in the EU (no employee threshold). Member state transposition deadline: July 26, 2027. Company compliance date: July 26, 2029. First CSDDD reports cover financial years starting on or after January 1, 2030. ASML Holding N.V. (44,000 employees, €28.3 billion 2024 revenue) falls clearly within scope on both thresholds. — Clifford Chance analysis (Feb 24, 2026): https://www.cliffordchance.com/insights/resources/blogs/business-and-human-rights-insights/2026/02/omnibus-i-the-european-union-concludes-csddd-and-csrd-reforms.html — KPMG Law (Mar 17, 2026): https://kpmg-law.de/en/first-omnibus-regulation-to-relax-the-obligations-of-the-csddd-csrd-and-lksg/ — White & Case (Mar 6, 2026): https://www.whitecase.com/insight-alert/simplified-not-abandoned-eu-corporate-sustainability-after-omnibus-i-package ↩︎
+
+GitHub (Gender Watchdog Evidence Repository) — Decoded EML: prior Hanwha Ocean ESG notification (July 13, 2025). https://github.com/Gender-Watchdog/evidence_repository/blob/master/email-eml/canada-defence-hanwha-submarines/esg/hanwha/decoded_%EA%B8%B4%EA%B8%89_%20%ED%95%9C%EA%B5%AD%20%EB%8C%80%ED%95%99%20%EB%82%B4%20%EC%B2%B4%EA%B3%84%EC%A0%81%20%EC%84%B1%ED%8F%AD%EB%A0%A5%20-%20%ED%95%9C%EA%B5%AD%20%EA%B8%B0%EC%97%85%EC%9D%98%20%EC%A4%91%EB%8C%80%ED%95%9C%20ESG%20%EB%B0%8F%20%ED%8F%89%ED%8C%90%20%EC%9C%84%ED%97%98%202025-07-13T14_00_03-07_00.eml ↩︎
+
+Gender Watchdog Blog, "They Were Watching. Then We Filed the ATIP. Then They Switched to GitHub." (May 15, 2026). https://blog.genderwatchdog.org/dispersed-vpn-surveillance-atip-collapse-dnd-2026/ ↩︎
+
+        Sent with Proton Mail secure email.
