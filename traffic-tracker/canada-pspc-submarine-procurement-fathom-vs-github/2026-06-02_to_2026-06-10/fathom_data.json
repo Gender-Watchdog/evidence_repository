@@ -1,0 +1,336 @@
+{
+  "fetched_at": "2026-06-10T22:56:10Z",
+  "period": {
+    "from": "2026-06-02",
+    "to": "2026-06-10"
+  },
+  "sites": [
+    {
+      "id": "UKSUATNV",
+      "name": "dongguk.genderwatchdog.org",
+      "daily": [
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "1",
+          "avg_duration": null,
+          "bounce_rate": "100",
+          "date": "2026-06-04"
+        },
+        {
+          "visits": "0",
+          "uniques": "0",
+          "pageviews": "0",
+          "avg_duration": "10",
+          "bounce_rate": null,
+          "date": "2026-06-06"
+        },
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "1",
+          "avg_duration": null,
+          "bounce_rate": "100",
+          "date": "2026-06-07"
+        }
+      ],
+      "totals": {
+        "visits": "2",
+        "uniques": "2",
+        "pageviews": "2",
+        "avg_duration": "10",
+        "bounce_rate": "100"
+      }
+    },
+    {
+      "id": "BYWLQOKO",
+      "name": "bearblog.dev",
+      "daily": [
+        {
+          "visits": "2",
+          "uniques": "2",
+          "pageviews": "7",
+          "avg_duration": "30",
+          "bounce_rate": "50",
+          "date": "2026-06-02"
+        },
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "2",
+          "avg_duration": null,
+          "bounce_rate": "0",
+          "date": "2026-06-03"
+        },
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "2",
+          "avg_duration": "150",
+          "bounce_rate": "0",
+          "date": "2026-06-07"
+        },
+        {
+          "visits": "3",
+          "uniques": "3",
+          "pageviews": "14",
+          "avg_duration": "772.66666666667",
+          "bounce_rate": "0",
+          "date": "2026-06-09"
+        }
+      ],
+      "totals": {
+        "visits": "7",
+        "uniques": "7",
+        "pageviews": "25",
+        "avg_duration": "499.6",
+        "bounce_rate": "14.285714285714"
+      }
+    },
+    {
+      "id": "OCSEXWRF",
+      "name": "metookorea2025.genderwatchdog",
+      "daily": [
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "1",
+          "avg_duration": null,
+          "bounce_rate": "100",
+          "date": "2026-06-05"
+        }
+      ],
+      "totals": {
+        "visits": "1",
+        "uniques": "1",
+        "pageviews": "1",
+        "avg_duration": null,
+        "bounce_rate": "100"
+      }
+    },
+    {
+      "id": "VDVWSPXF",
+      "name": "dashboard.genderwatchdog.org",
+      "daily": [
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "1",
+          "avg_duration": "35",
+          "bounce_rate": "100",
+          "date": "2026-06-02"
+        },
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "2",
+          "avg_duration": "15",
+          "bounce_rate": "0",
+          "date": "2026-06-03"
+        },
+        {
+          "visits": "2",
+          "uniques": "2",
+          "pageviews": "4",
+          "avg_duration": "31",
+          "bounce_rate": "0",
+          "date": "2026-06-04"
+        },
+        {
+          "visits": "2",
+          "uniques": "2",
+          "pageviews": "2",
+          "avg_duration": "11.5",
+          "bounce_rate": "100",
+          "date": "2026-06-05"
+        },
+        {
+          "visits": "2",
+          "uniques": "2",
+          "pageviews": "3",
+          "avg_duration": "35",
+          "bounce_rate": "50",
+          "date": "2026-06-06"
+        },
+        {
+          "visits": "2",
+          "uniques": "2",
+          "pageviews": "2",
+          "avg_duration": "13.5",
+          "bounce_rate": "100",
+          "date": "2026-06-07"
+        },
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "2",
+          "avg_duration": "29",
+          "bounce_rate": "0",
+          "date": "2026-06-08"
+        },
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "2",
+          "avg_duration": "38",
+          "bounce_rate": "0",
+          "date": "2026-06-09"
+        },
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "2",
+          "avg_duration": "23",
+          "bounce_rate": "0",
+          "date": "2026-06-10"
+        }
+      ],
+      "totals": {
+        "visits": "13",
+        "uniques": "13",
+        "pageviews": "20",
+        "avg_duration": "24.769230769231",
+        "bounce_rate": "46.153846153846"
+      }
+    },
+    {
+      "id": "TLDNEOPI",
+      "name": "home.genderwatchdog.org",
+      "daily": [
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "1",
+          "avg_duration": null,
+          "bounce_rate": "100",
+          "date": "2026-06-03"
+        },
+        {
+          "visits": "0",
+          "uniques": "0",
+          "pageviews": "0",
+          "avg_duration": "5",
+          "bounce_rate": null,
+          "date": "2026-06-04"
+        },
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "1",
+          "avg_duration": "3.5",
+          "bounce_rate": "100",
+          "date": "2026-06-07"
+        }
+      ],
+      "totals": {
+        "visits": "2",
+        "uniques": "2",
+        "pageviews": "2",
+        "avg_duration": "4",
+        "bounce_rate": "100"
+      }
+    },
+    {
+      "id": "WOKITHAT",
+      "name": "safe.genderwatchdog.org",
+      "daily": [],
+      "totals": {
+        "visits": "0",
+        "uniques": "0",
+        "pageviews": "0",
+        "avg_duration": null,
+        "bounce_rate": null
+      }
+    },
+    {
+      "id": "RTNTPNUN",
+      "name": "gh-blog.genderwatchdog.org",
+      "daily": [
+        {
+          "visits": "0",
+          "uniques": "0",
+          "pageviews": "0",
+          "avg_duration": "9",
+          "bounce_rate": null,
+          "date": "2026-06-02"
+        },
+        {
+          "visits": "0",
+          "uniques": "0",
+          "pageviews": "0",
+          "avg_duration": "10",
+          "bounce_rate": null,
+          "date": "2026-06-03"
+        },
+        {
+          "visits": "3",
+          "uniques": "3",
+          "pageviews": "4",
+          "avg_duration": "2",
+          "bounce_rate": "66.666666666667",
+          "date": "2026-06-05"
+        },
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "1",
+          "avg_duration": null,
+          "bounce_rate": "100",
+          "date": "2026-06-06"
+        },
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "1",
+          "avg_duration": "9",
+          "bounce_rate": "100",
+          "date": "2026-06-08"
+        },
+        {
+          "visits": "2",
+          "uniques": "2",
+          "pageviews": "18",
+          "avg_duration": "1037.5",
+          "bounce_rate": "0",
+          "date": "2026-06-09"
+        },
+        {
+          "visits": "2",
+          "uniques": "2",
+          "pageviews": "6",
+          "avg_duration": "1623",
+          "bounce_rate": "50",
+          "date": "2026-06-10"
+        }
+      ],
+      "totals": {
+        "visits": "9",
+        "uniques": "9",
+        "pageviews": "30",
+        "avg_duration": "668.875",
+        "bounce_rate": "55.555555555556"
+      }
+    },
+    {
+      "id": "GZNRZWDB",
+      "name": "chungang.genderwatchdog.org",
+      "daily": [
+        {
+          "visits": "1",
+          "uniques": "1",
+          "pageviews": "1",
+          "avg_duration": "7",
+          "bounce_rate": "100",
+          "date": "2026-06-09"
+        }
+      ],
+      "totals": {
+        "visits": "1",
+        "uniques": "1",
+        "pageviews": "1",
+        "avg_duration": "7",
+        "bounce_rate": "100"
+      }
+    }
+  ]
+}
