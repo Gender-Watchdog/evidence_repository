@@ -1,0 +1,5 @@
+# SHA-256 of the two spreadsheets as downloaded from the academyinfo.go.kr View buttons on 2026-10-31 (unmodified portal files).
+# View 2025 = disclosure titled 2025, base year 2024, 155 rows. View 2026 = disclosure titled 2026, base year 2025, 165 rows.
+# Check on Linux/macOS: sha256sum -c SHA256SUMS.txt   (run in the folder holding the two files)
+901400f6b12f0280845732b91890a840cdc71611935ea707240eb4eec9dbf57b  Status of exchanges with ov_2026-10-31144051954.xlsx
+d51478b50136742b2ccdde5b8f9aede4e3ca930d2e28949d9cb17e4f446587e2  Status of exchanges with ov_2026-10-31143917182.xlsx
