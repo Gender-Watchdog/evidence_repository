@@ -1,5 +1,6 @@
-# SHA-256 of the two spreadsheets as downloaded from the academyinfo.go.kr View buttons on 2026-10-31 (unmodified portal files).
-# View 2025 = disclosure titled 2025, base year 2024, 155 rows. View 2026 = disclosure titled 2026, base year 2025, 165 rows.
-# Check on Linux/macOS: sha256sum -c SHA256SUMS.txt   (run in the folder holding the two files)
-901400f6b12f0280845732b91890a840cdc71611935ea707240eb4eec9dbf57b  Status of exchanges with ov_2026-10-31144051954.xlsx
-d51478b50136742b2ccdde5b8f9aede4e3ca930d2e28949d9cb17e4f446587e2  Status of exchanges with ov_2026-10-31143917182.xlsx
+# SHA-256 of the spreadsheets as downloaded from the academyinfo.go.kr View buttons (unmodified portal files).
+# 2025 = disclosure titled 2025, base year 2024, 155 rows (downloaded 2026-10-31). 2026 = titled 2026, base year 2025, 165 rows (2026-10-31). 2024 = titled 2024, base year 2023, 145 rows (2026-11-01).
+# Check on Linux/macOS, from the folder that holds the 2024, 2025 and 2026 subfolders:  sha256sum -c SHA256SUMS.txt
+aba2ea8faa9fbcd8bbdc5641781bce76e4bbcdd86a6a29f1dd75a38cc6aaeaa0  2024/Status of exchanges with ov_2026-11-01154233422.xlsx
+901400f6b12f0280845732b91890a840cdc71611935ea707240eb4eec9dbf57b  2025/Status of exchanges with ov_2026-10-31144051954.xlsx
+d51478b50136742b2ccdde5b8f9aede4e3ca930d2e28949d9cb17e4f446587e2  2026/Status of exchanges with ov_2026-10-31143917182.xlsx
